@@ -1,274 +1,263 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17683.jpg" group-title="DSTV TV",|DSTV| M-Net
-http://red.ipfox.org:8080/1234/12345678/3053
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19312.jpg" group-title="DSTV TV",|DSTV| M-Net City
-http://red.ipfox.org:8080/1234/12345678/19561
-#EXTINF:-1 group-title="DSTV TV",|DSTV| M-Net Movies 1
-http://red.ipfox.org:8080/1234/12345678/25519
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17611.png" group-title="DSTV TV",|DSTV| M-Net Movies 2
-http://red.ipfox.org:8080/1234/12345678/2992
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17627.png" group-title="DSTV TV",|DSTV| M-Net Movies 3
-http://red.ipfox.org:8080/1234/12345678/2989
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17614.png" group-title="DSTV TV",|DSTV| M-Net Movies 4
-http://red.ipfox.org:8080/1234/12345678/2988
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17621.png" group-title="DSTV TV",|DSTV| SuperSport PSL
-http://red.ipfox.org:8080/1234/12345678/2970
-#EXTINF:-1 group-title="DSTV TV",|DSTV| SuperSport Golf
-http://red.ipfox.org:8080/1234/12345678/25495
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17618.jpg" group-title="DSTV TV",|DSTV| SuperSport Tennis
-http://red.ipfox.org:8080/1234/12345678/2980
-#EXTINF:-1 group-title="DSTV TV",|DSTV| SuperSport Cricket
-http://red.ipfox.org:8080/1234/12345678/25498
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17625.png" group-title="DSTV TV",|DSTV| SuperSport Rugby
-http://red.ipfox.org:8080/1234/12345678/2979
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17626.png" group-title="DSTV TV",|DSTV| SuperSport Action
-http://red.ipfox.org:8080/1234/12345678/2976
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17619.png" group-title="DSTV TV",|DSTV| SuperSport Grandstand
-http://red.ipfox.org:8080/1234/12345678/2972
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17622.png" group-title="DSTV TV",|DSTV| SuperSport  LaLiga
-http://red.ipfox.org:8080/1234/12345678/2969
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17636.png" group-title="DSTV TV",|DSTV| SuperSport Football
-http://red.ipfox.org:8080/1234/12345678/2974
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17620.png" group-title="DSTV TV",|DSTV| SuperSport Premier League
-http://red.ipfox.org:8080/1234/12345678/2971
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17635.png" group-title="DSTV TV",|DSTV| SuperSport Variety 1
-http://red.ipfox.org:8080/1234/12345678/2975
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17637.png" group-title="DSTV TV",|DSTV| SuperSport Variety 2
-http://red.ipfox.org:8080/1234/12345678/2973
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17608.png" group-title="DSTV TV",|DSTV| SuperSport Variety 3
-http://red.ipfox.org:8080/1234/12345678/2978
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17617.png" group-title="DSTV TV",|DSTV| SuperSport Variety 4
-http://red.ipfox.org:8080/1234/12345678/2977
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17606.png" group-title="DSTV TV",|DSTV| Supersport Blitz HD
-http://red.ipfox.org:8080/1234/12345678/2981
-#EXTINF:-1 group-title="DSTV TV",|DSTV| SuperSport Motorsport
-http://red.ipfox.org:8080/1234/12345678/25497
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17624.png" group-title="DSTV TV",|DSTV| SuperSport MáXimo HD
-http://red.ipfox.org:8080/1234/12345678/2982
-#EXTINF:-1 group-title="DSTV TV",|DSTV| SuperSport WWE
-http://red.ipfox.org:8080/1234/12345678/25512
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17609.png" group-title="DSTV TV",|DSTV| eMovies
-http://red.ipfox.org:8080/1234/12345678/2986
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17615.png" group-title="DSTV TV",|DSTV| eMovies Extra
-http://red.ipfox.org:8080/1234/12345678/2987
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17616.png" group-title="DSTV TV",|DSTV| SABC 1
-http://red.ipfox.org:8080/1234/12345678/2983
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17613.png" group-title="DSTV TV",|DSTV| SABC 3
-http://red.ipfox.org:8080/1234/12345678/2984
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17612.png" group-title="DSTV TV",|DSTV| SABC 2
-http://red.ipfox.org:8080/1234/12345678/2985
-#EXTINF:-1 group-title="DSTV TV",|DSTV| ESPN
-http://red.ipfox.org:8080/1234/12345678/25494
-#EXTINF:-1 group-title="DSTV TV",|DSTV| ESPN2
-http://red.ipfox.org:8080/1234/12345678/25493
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Studio Universal
-http://red.ipfox.org:8080/1234/12345678/25518
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Comedy Central
-http://red.ipfox.org:8080/1234/12345678/25516
-#EXTINF:-1 group-title="DSTV TV",|DSTV| E! Entertainment Television
-http://red.ipfox.org:8080/1234/12345678/25515
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Ginx eSports TV
-http://red.ipfox.org:8080/1234/12345678/25513
-#EXTINF:-1 group-title="DSTV TV",|DSTV| BET
-http://red.ipfox.org:8080/1234/12345678/25511
-#EXTINF:-1 group-title="DSTV TV",|DSTV| TLC Entertainment
-http://red.ipfox.org:8080/1234/12345678/25510
-#EXTINF:-1 group-title="DSTV TV",|DSTV| TNT Africa
-http://red.ipfox.org:8080/1234/12345678/25508
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Mzansi Magic
-http://red.ipfox.org:8080/1234/12345678/25507
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Zee World
-http://red.ipfox.org:8080/1234/12345678/25506
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Food Network
-http://red.ipfox.org:8080/1234/12345678/25505
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Discove
-http://red.ipfox.org:8080/1234/12345678/25509
-#EXTINF:-1 group-title="DSTV TV",|DSTV| HGTV
-http://red.ipfox.org:8080/1234/12345678/25504
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Curiosity Stream HD
-http://red.ipfox.org:8080/1234/12345678/25503
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Idols Extra
-http://red.ipfox.org:8080/1234/12345678/25502
-#EXTINF:-1 group-title="DSTV TV",|DSTV| GauTV
-http://red.ipfox.org:8080/1234/12345678/25501
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Cartoon Network
-http://red.ipfox.org:8080/1234/12345678/25500
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Boomerang
-http://red.ipfox.org:8080/1234/12345678/25499
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Disney Channel
-http://red.ipfox.org:8080/1234/12345678/25492
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Cbeebies
-http://red.ipfox.org:8080/1234/12345678/25490
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Nick Jr
-http://red.ipfox.org:8080/1234/12345678/25489
-#EXTINF:-1 group-title="DSTV TV",|DSTV| NickTOONS
-http://red.ipfox.org:8080/1234/12345678/25488
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Disney Junior
-http://red.ipfox.org:8080/1234/12345678/25487
-#EXTINF:-1 group-title="DSTV TV",|DSTV| TRACE Africa
-http://red.ipfox.org:8080/1234/12345678/25485
-#EXTINF:-1 group-title="DSTV TV",|DSTV| TRACE Gospel
-http://red.ipfox.org:8080/1234/12345678/25484
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Dumisa
-http://red.ipfox.org:8080/1234/12345678/25483
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Daystar
-http://red.ipfox.org:8080/1234/12345678/25482
-#EXTINF:-1 group-title="DSTV TV",|DSTV| CNN International
-http://red.ipfox.org:8080/1234/12345678/25481
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Sky News
-http://red.ipfox.org:8080/1234/12345678/25480
-#EXTINF:-1 group-title="DSTV TV",|DSTV| SABC News
-http://red.ipfox.org:8080/1234/12345678/25479
-#EXTINF:-1 group-title="DSTV TV",|DSTV| CNBC Africa
-http://red.ipfox.org:8080/1234/12345678/25478
-#EXTINF:-1 group-title="DSTV TV",|DSTV| africanews
-http://red.ipfox.org:8080/1234/12345678/25477
-#EXTINF:-1 group-title="DSTV TV",|DSTV| NHK
-http://red.ipfox.org:8080/1234/12345678/25476
-#EXTINF:-1 group-title="DSTV TV",|DSTV| CCTV 4
-http://red.ipfox.org:8080/1234/12345678/25475
-#EXTINF:-1 group-title="DSTV TV",|DSTV| RTP Internacional
-http://red.ipfox.org:8080/1234/12345678/25474
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17630.jpg" group-title="DSTV TV",|DSTV| CBS Reality
-http://red.ipfox.org:8080/1234/12345678/2997
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17628.png" group-title="DSTV TV",|DSTV| 1 KZN
-http://red.ipfox.org:8080/1234/12345678/2999
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17646.png" group-title="DSTV TV",|DSTV| Bay TV
-http://red.ipfox.org:8080/1234/12345678/3000
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17645.png" group-title="DSTV TV",|DSTV| Cape Town TV
-http://red.ipfox.org:8080/1234/12345678/3001
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17644.png" group-title="DSTV TV",|DSTV| e.tv
-http://red.ipfox.org:8080/1234/12345678/3002
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17643.png" group-title="DSTV TV",|DSTV| eToonz
-http://red.ipfox.org:8080/1234/12345678/3003
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17638.jpg" group-title="DSTV TV",|DSTV| FAITH
-http://red.ipfox.org:8080/1234/12345678/3008
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17657.png" group-title="DSTV TV",|DSTV| iTV Networks
-http://red.ipfox.org:8080/1234/12345678/3011
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17656.jpg" group-title="DSTV TV",|DSTV| JimJam
-http://red.ipfox.org:8080/1234/12345678/3012
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17654.png" group-title="DSTV TV",|DSTV| Lesotho TV
-http://red.ipfox.org:8080/1234/12345678/3014
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17653.png" group-title="DSTV TV",|DSTV| Mindset
-http://red.ipfox.org:8080/1234/12345678/3015
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17652.png" group-title="DSTV TV",|DSTV| MojaLove
-http://red.ipfox.org:8080/1234/12345678/3016
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17651.jpg" group-title="DSTV TV",|DSTV| MTV
-http://red.ipfox.org:8080/1234/12345678/3017
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17650.jpg" group-title="DSTV TV",|DSTV| MTV Base
-http://red.ipfox.org:8080/1234/12345678/3018
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17649.gif" group-title="DSTV TV",|DSTV| Nickelodeon
-http://red.ipfox.org:8080/1234/12345678/3019
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17648.jpg" group-title="DSTV TV",|DSTV| MTV Music 24
-http://red.ipfox.org:8080/1234/12345678/3020
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17647.png" group-title="DSTV TV",|DSTV| PBS Kids
-http://red.ipfox.org:8080/1234/12345678/3021
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17607.png" group-title="DSTV TV",|DSTV| People’s Weather
-http://red.ipfox.org:8080/1234/12345678/3022
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17663.jpg" group-title="DSTV TV",|DSTV| SOUNDCITY
-http://red.ipfox.org:8080/1234/12345678/3024
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17662.png" group-title="DSTV TV",|DSTV| Real Time
-http://red.ipfox.org:8080/1234/12345678/3025
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17660.jpg" group-title="DSTV TV",|DSTV| TV5 Monde Afrique
-http://red.ipfox.org:8080/1234/12345678/3027
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17678.png" group-title="DSTV TV",|DSTV| Russia Today
-http://red.ipfox.org:8080/1234/12345678/3028
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17676.png" group-title="DSTV TV",|DSTV| RAI Italia
-http://red.ipfox.org:8080/1234/12345678/3030
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17675.jpg" group-title="DSTV TV",|DSTV| Parliamentary Service
-http://red.ipfox.org:8080/1234/12345678/3031
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17674.jpg" group-title="DSTV TV",|DSTV| NDTV247
-http://red.ipfox.org:8080/1234/12345678/3032
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17673.png" group-title="DSTV TV",|DSTV| Emmanuel TV
-http://red.ipfox.org:8080/1234/12345678/3033
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17672.png" group-title="DSTV TV",|DSTV| Deutsche Welle
-http://red.ipfox.org:8080/1234/12345678/3034
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17671.png" group-title="DSTV TV",|DSTV| Newzroom Afrika
-http://red.ipfox.org:8080/1234/12345678/3035
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17669.png" group-title="DSTV TV",|DSTV| CGTN News
-http://red.ipfox.org:8080/1234/12345678/3037
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17667.jpg" group-title="DSTV TV",|DSTV| Bloomberg
-http://red.ipfox.org:8080/1234/12345678/3039
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17693.png" group-title="DSTV TV",|DSTV| The Home Channel
-http://red.ipfox.org:8080/1234/12345678/3043
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17692.png" group-title="DSTV TV",|DSTV| TellyTrack
-http://red.ipfox.org:8080/1234/12345678/3044
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17691.jpg" group-title="DSTV TV",|DSTV| Star Life
-http://red.ipfox.org:8080/1234/12345678/3045
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17690.png" group-title="DSTV TV",|DSTV| Soweto TV
-http://red.ipfox.org:8080/1234/12345678/3046
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17689.png" group-title="DSTV TV",|DSTV| TBN
-http://red.ipfox.org:8080/1234/12345678/3047
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/4000.png" group-title="DSTV TV",|DSTV| Al Jazeera
-http://red.ipfox.org:8080/1234/12345678/3050
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17685.png" group-title="DSTV TV",|DSTV| kykNET
-http://red.ipfox.org:8080/1234/12345678/3051
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17682.jpg" group-title="DSTV TV",|DSTV| Africa Magic Epic
-http://red.ipfox.org:8080/1234/12345678/3054
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17681.jpg" group-title="DSTV TV",|DSTV| Africa Magic Family
-http://red.ipfox.org:8080/1234/12345678/3055
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17679.png" group-title="DSTV TV",|DSTV| eNCA
-http://red.ipfox.org:8080/1234/12345678/3057
-#EXTINF:-1 group-title="DSTV TV",|DSTV| e.TV Extra
-http://red.ipfox.org:8080/1234/12345678/19548
-#EXTINF:-1 group-title="DSTV TV",|DSTV| Ignition
-http://red.ipfox.org:8080/1234/12345678/19549
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19301.jpg" group-title="DSTV TV",|DSTV| BVN
-http://red.ipfox.org:8080/1234/12345678/19550
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19303.jpg" group-title="DSTV TV",|DSTV| ROK
-http://red.ipfox.org:8080/1234/12345678/19552
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19305.jpg" group-title="DSTV TV",|DSTV| TRACE Urban
-http://red.ipfox.org:8080/1234/12345678/19554
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19308.jpg" group-title="DSTV TV",|DSTV| EuroNews
-http://red.ipfox.org:8080/1234/12345678/19557
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19309.jpg" group-title="DSTV TV",|DSTV| CBS Justice
-http://red.ipfox.org:8080/1234/12345678/19558
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19310.jpg" group-title="DSTV TV",|DSTV| Mzansi Bioskop
-http://red.ipfox.org:8080/1234/12345678/19559
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19311.jpg" group-title="DSTV TV",|DSTV| Mzansi Wethu
-http://red.ipfox.org:8080/1234/12345678/19560
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19316.jpg" group-title="DSTV TV",|DSTV| 1Magic
-http://red.ipfox.org:8080/1234/12345678/19565
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19318.jpg" group-title="DSTV TV",|DSTV| Vuzu
-http://red.ipfox.org:8080/1234/12345678/19567
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19319.jpg" group-title="DSTV TV",|DSTV| Africa Magic Urban
-http://red.ipfox.org:8080/1234/12345678/19568
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19320.jpg" group-title="DSTV TV",|DSTV| One Gospel
-http://red.ipfox.org:8080/1234/12345678/19569
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19322.jpg" group-title="DSTV TV",|DSTV| kykNET &amp; Kie
-http://red.ipfox.org:8080/1234/12345678/19571
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19323.jpg" group-title="DSTV TV",|DSTV| kykNET Nou!
-http://red.ipfox.org:8080/1234/12345678/19572
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19324.jpg" group-title="DSTV TV",|DSTV| Channel O
-http://red.ipfox.org:8080/1234/12345678/19573
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19334.jpg" group-title="DSTV TV",|DSTV| Business Day TV
-http://red.ipfox.org:8080/1234/12345678/19583
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19335.jpg" group-title="DSTV TV",|DSTV| BBC World News
-http://red.ipfox.org:8080/1234/12345678/19584
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19337.jpg" group-title="DSTV TV",|DSTV| BBC Earth
-http://red.ipfox.org:8080/1234/12345678/19586
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19339.jpg" group-title="DSTV TV",|DSTV| BBC Lifestyle
-http://red.ipfox.org:8080/1234/12345678/19588
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19336.jpg" group-title="DSTV TV",|DSTV| History
-http://red.ipfox.org:8080/1234/12345678/19585
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19349.jpg" group-title="DSTV TV",|DSTV| Discovery Channel
-http://red.ipfox.org:8080/1234/12345678/19598
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19340.jpg" group-title="DSTV TV",|DSTV| Investigation Discovery
-http://red.ipfox.org:8080/1234/12345678/19589
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19314.jpg" group-title="DSTV TV",|DSTV| National Geographic
-http://red.ipfox.org:8080/1234/12345678/19563
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19315.jpg" group-title="DSTV TV",|DSTV| National Geographic Wild
-http://red.ipfox.org:8080/1234/12345678/19564
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17688.jpg" group-title="DSTV TV",|DSTV| Travel Channel
-http://red.ipfox.org:8080/1234/12345678/3048
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19341.jpg" group-title="DSTV TV",|DSTV| VIA
-http://red.ipfox.org:8080/1234/12345678/19590
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19344.jpg" group-title="DSTV TV",|DSTV| Lifetime
-http://red.ipfox.org:8080/1234/12345678/19593
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19347.jpg" group-title="DSTV TV",|DSTV| FOX
-http://red.ipfox.org:8080/1234/12345678/19596
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19350.jpg" group-title="DSTV TV",|DSTV| BBC Brit
-http://red.ipfox.org:8080/1234/12345678/19599
-#EXTINF:-1 tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/19352.jpg" group-title="DSTV TV",|DSTV| Mzansi Magic Music
-http://red.ipfox.org:8080/1234/12345678/19601
-
+#EXTINF:-1,✦●✦|DSTV| GENERAL ✦●✦
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14522.m3u8
+#EXTINF:-1,DSTV| TF1 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/189840.m3u8
+#EXTINF:-1,DSTV| AL JAZEERA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355041.m3u8
+#EXTINF:-1,DSTV| CNN INTERNATIONAL HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355042.m3u8
+#EXTINF:-1,DSTV| CGTN NEWS FHD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/354996.m3u8
+#EXTINF:-1,DSTV| TV5 MONDE AFRIQUE HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14340.m3u8
+#EXTINF:-1,DSTV| TVC NEWS FHD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14473.m3u8
+#EXTINF:-1,DSTV| ITV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400161741.m3u8
+#EXTINF:-1,DSTV| JOY NEWS HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14419.m3u8
+#EXTINF:-1,DSTV| TELEMUNDO HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14364.m3u8
+#EXTINF:-1,DSTV| AIT HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/354002.m3u8
+#EXTINF:-1,DSTV| CHANNELS 24 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14466.m3u8
+#EXTINF:-1,DSTV| CNBC AFRICA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14403.m3u8
+#EXTINF:-1,DSTV| K24 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14246.m3u8
+#EXTINF:-1,DSTV| LAGOS TV SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/333516.m3u8
+#EXTINF:-1,DSTV| SABC NEWS HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/354998.m3u8
+#EXTINF:-1,DSTV| MINDSET HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355000.m3u8
+#EXTINF:-1,DSTV| VUZU HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355011.m3u8
+#EXTINF:-1,DSTV| ENCA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400308064.m3u8
+#EXTINF:-1,DSTV| | ADOM TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14393.m3u8
+#EXTINF:-1,DSTV| FOX HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355343.m3u8
+#EXTINF:-1,DSTV| BLOOMBERG HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355345.m3u8
+#EXTINF:-1,DSTV| NTAI TV SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14435.m3u8
+#EXTINF:-1,DSTV| E TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/38202.m3u8
+#EXTINF:-1,DSTV| MOJA LOVE HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/38201.m3u8
+#EXTINF:-1,DSTV| Channel O HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110603.m3u8
+#EXTINF:-1,DSTV| Gau TV SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110606.m3u8
+#EXTINF:-1,DSTV| Universal TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110607.m3u8
+#EXTINF:-1,DSTV| Cape Town HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110608.m3u8
+#EXTINF:-1,DSTV| BBC Brit HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110604.m3u8
+#EXTINF:-1,✦●✦|DSTV| SPORT ✦●✦
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14602.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT PREMIER LEAGUE HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159892.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT LALIGA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159894.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT FOOTBALL HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159895.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT PSL HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159893.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT TENNIS HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159890.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT GOLF HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159887.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT VARIETY 1 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159883.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT VARIETY 2 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159884.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT VARIETY 3 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159885.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT VARIETY 4 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159886.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT CRICKET HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/117926.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT RUGBY HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159889.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT MOTORSPORT HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159888.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT MAXIMO 1 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159896.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT ACTION HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/117927.m3u8
+#EXTINF:-1,DSTV| SUPER SPORT GRANDSTAND HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159891.m3u8
+#EXTINF:-1,DSTV| Super Sport Blitz HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110613.m3u8
+#EXTINF:-1,✦●✦|DSTV| KIDS ✦●✦
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14570.m3u8
+#EXTINF:-1,DSTV| CARTOON NETWORK HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14568.m3u8
+#EXTINF:-1,DSTV| BOOMERANG HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14567.m3u8
+#EXTINF:-1,DSTV| JIMJAM HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14560.m3u8
+#EXTINF:-1,DSTV| TOONAMI HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14569.m3u8
+#EXTINF:-1,DSTV| PBS KIDS HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355020.m3u8
+#EXTINF:-1,DSTV| DA VINCI KIDS HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355022.m3u8
+#EXTINF:-1,DSTV| TIVI5 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225105.m3u8
+#EXTINF:-1,DSTV| DOUNIA SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225160.m3u8
+#EXTINF:-1,DSTV| eToonz HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110605.m3u8
+#EXTINF:-1,DSTV| Disney Channel HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110610.m3u8
+#EXTINF:-1,DSTV| Disney Junior HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110609.m3u8
+#EXTINF:-1,✦●✦|DSTV| MUSIC ✦●✦
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14555.m3u8
+#EXTINF:-1,DSTV| TRACE NAIJA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14548.m3u8
+#EXTINF:-1,DSTV| TRACE KITOKO HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14553.m3u8
+#EXTINF:-1,DSTV| TRACE JAMA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353558.m3u8
+#EXTINF:-1,DSTV| TRACE TOCA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/360221.m3u8
+#EXTINF:-1,DSTV| TRACE MIZKI HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14554.m3u8
+#EXTINF:-1,DSTV| TRACE VANILLA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/360222.m3u8
+#EXTINF:-1,DSTV| AFRO MUSIC POP FHD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14530.m3u8
+#EXTINF:-1,DSTV| AFROBITS HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14541.m3u8
+#EXTINF:-1,DSTV| BBLACK CLASSIK HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14536.m3u8
+#EXTINF:-1,DSTV| BBLACK CARRABEAN HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14537.m3u8
+#EXTINF:-1,DSTV| MZANSI MAGIC MUSIC HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159878.m3u8
+#EXTINF:-1,DSTV| URBAN TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353639.m3u8
+#EXTINF:-1,DSTV| MEZZO HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225135.m3u8
+#EXTINF:-1,DSTV| MELODY HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225136.m3u8
+#EXTINF:-1,DSTV| IVOIRE TV MUSIC SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225147.m3u8
+#EXTINF:-1,DSTV| BBLACK AFRICA  HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225175.m3u8
+#EXTINF:-1,DSTV| AFRO MUSIC HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225181.m3u8
+#EXTINF:-1,DSTV| RAVE TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14523.m3u8
+#EXTINF:-1,DSTV| KISS TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14533.m3u8
+#EXTINF:-1,DSTV| TVM3 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14534.m3u8
+#EXTINF:-1,DSTV| DBM TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14535.m3u8
+#EXTINF:-1,DSTV| RTDS SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225123.m3u8
+#EXTINF:-1,DSTV| PACIS TV SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225127.m3u8
+#EXTINF:-1,DSTV| KC2 SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225145.m3u8
+#EXTINF:-1,DSTV| MTV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110612.m3u8
+#EXTINF:-1,✦●✦|DSTV| MOVIES ✦●✦
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14584.m3u8
+#EXTINF:-1,DSTV| AFRICA MAGIC SHOWCASE HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355009.m3u8
+#EXTINF:-1,DSTV| AFRICA MAGIC YORUBA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/292452.m3u8
+#EXTINF:-1,DSTV| AFRIC AMAGIC EPIC HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/292451.m3u8
+#EXTINF:-1,DSTV| AFRICA MAGIC URBAN HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355008.m3u8
+#EXTINF:-1,DSTV| AFRICA MAGIC IGBO HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355006.m3u8
+#EXTINF:-1,DSTV| AFRICA MAGIC FAMILY HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/292419.m3u8
+#EXTINF:-1,DSTV| AFRICA MAGIC HAUSA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355007.m3u8
+#EXTINF:-1,DSTV| ROK TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14477.m3u8
+#EXTINF:-1,DSTV| M-NET HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14582.m3u8
+#EXTINF:-1,DSTV| M-NET +1 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14583.m3u8
+#EXTINF:-1,DSTV| M-NET WEST HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353442.m3u8
+#EXTINF:-1,DSTV| M-NET EAST HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353443.m3u8
+#EXTINF:-1,DSTV| M-NET CITY HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353444.m3u8
+#EXTINF:-1,DSTV| M-NET MOVIES 2 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14580.m3u8
+#EXTINF:-1,DSTV| M-NET MOVIES 3 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353446.m3u8
+#EXTINF:-1,DSTV| M-NET MOVIES 4 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353447.m3u8
+#EXTINF:-1,DSTV| SABC 1 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159880.m3u8
+#EXTINF:-1,DSTV| SABC 2 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355035.m3u8
+#EXTINF:-1,DSTV| SABC 3 HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355036.m3u8
+#EXTINF:-1,DSTV| COMEDY CENTRAL HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353780.m3u8
+#EXTINF:-1,DSTV| TELEVISTA SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355002.m3u8
+#EXTINF:-1,DSTV| BET HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/189777.m3u8
+#EXTINF:-1,DSTV| TRYBE TV SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/292550.m3u8
+#EXTINF:-1,DSTV| STUDIO UNIVERSAL HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355012.m3u8
+#EXTINF:-1,DSTV| eMovies Extra HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110600.m3u8
+#EXTINF:-1,DSTV| Mzansi Bioskop HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110601.m3u8
+#EXTINF:-1,DSTV| Mzansi Magic HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110602.m3u8
+#EXTINF:-1,DSTV| 1 Magic HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/110611.m3u8
+#EXTINF:-1,✦●✦|DSTV| ENTERTAINMENT ✦●✦
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400277075.m3u8
+#EXTINF:-1,DSTV| FOOD NETWORK HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355046.m3u8
+#EXTINF:-1,DSTV| LIFETIME HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355213.m3u8
+#EXTINF:-1,DSTV| CBS REALITY HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355268.m3u8
+#EXTINF:-1,DSTV| TLC ENTERTAINMENT HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355303.m3u8
+#EXTINF:-1,DSTV| TVC SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400225099.m3u8
+#EXTINF:-1,DSTV| BIG BROTHER NAIJA HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/400218849.m3u8
+#EXTINF:-1,DSTV| FASHION HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355047.m3u8
+#EXTINF:-1,DSTV| EMMANUEL TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14470.m3u8
+#EXTINF:-1,✦●✦|DSTV| RELIGIOUS ✦●✦
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14304.m3u8
+#EXTINF:-1,DSTV| ISLAM CHANNEL HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355016.m3u8
+#EXTINF:-1,DSTV| TBN HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/159897.m3u8
+#EXTINF:-1,DSTV| DAYSTAR HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/355014.m3u8
+#EXTINF:-1,DSTV| DOVE TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14291.m3u8
+#EXTINF:-1,DSTV| LUMEN CHRISTI SD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/353650.m3u8
+#EXTINF:-1,DSTV| FAITH TV HD
+http://rmcott.tv:900/live/UrEhtnmn/37BC77AB/14298.m3u8
