@@ -50,4 +50,352 @@ http://fortv.cc:8080/live/alphonso/alphonso/121723.m3u8
 http://fortv.cc:8080/live/alphonso/alphonso/121724.m3u8
 #EXTINF:-1,DSTV: KIX
 http://fortv.cc:8080/live/alphonso/alphonso/121725.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Sports ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297422
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/9a2e4e786f2c801b5794955638f87769.jpg" group-title="Africa DSTV",Af | DSTV: Ginx eSports TV
+http://new-pro.tv:8080/Fernando/123321/61023
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" group-title="Africa DSTV",Af | DSTV: Super Sports Blitz
+http://new-pro.tv:8080/Fernando/123321/60921
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Grand Stand
+http://new-pro.tv:8080/Fernando/123321/60925
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="Africa DSTV",Af | DSTV: Super Sports PSL 1
+http://new-pro.tv:8080/Fernando/123321/67690
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Premier League
+http://new-pro.tv:8080/Fernando/123321/60924
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports La Liga
+http://new-pro.tv:8080/Fernando/123321/60922
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Football 4
+http://new-pro.tv:8080/Fernando/123321/60929
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Variety 1
+http://new-pro.tv:8080/Fernando/123321/112586
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Variety 2
+http://new-pro.tv:8080/Fernando/123321/60926
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Variety 3
+http://new-pro.tv:8080/Fernando/123321/60931
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ba7b6c2a20cad542fcd0e712cbe9fc08.jpg" group-title="Africa DSTV",Af | DSTV: Super Sports Variety 4
+http://new-pro.tv:8080/Fernando/123321/60930
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Action
+http://new-pro.tv:8080/Fernando/123321/60928
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Rugby
+http://new-pro.tv:8080/Fernando/123321/60932
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports Cricket
+http://new-pro.tv:8080/Fernando/123321/60933
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" group-title="Africa DSTV",Af | DSTV: Super Sports Golf
+http://new-pro.tv:8080/Fernando/123321/60934
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/581f4c3bf17495aed6fe7df81e478a86.jpg" group-title="Africa DSTV",Af | DSTV: Super Sports Tennis
+http://new-pro.tv:8080/Fernando/123321/60939
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports MotorSports
+http://new-pro.tv:8080/Fernando/123321/60938
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: ESPN 1
+http://new-pro.tv:8080/Fernando/123321/112582
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: ESPN 2
+http://new-pro.tv:8080/Fernando/123321/112583
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/0156bdbd85cb9e551f0afb40a246a8c0.jpg" group-title="Africa DSTV",Af | DSTV: SuperSport Maximo 1
+http://new-pro.tv:8080/Fernando/123321/60935
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/7264df46586684f4453b1f90c31f0a2d.png" group-title="Africa DSTV",Af | DSTV: Super Sport Play
+http://new-pro.tv:8080/Fernando/123321/60936
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/089a1f25f730b942e050e6ac167b56e2.jpg" group-title="Africa DSTV",Af | DSTV: WWE Channel
+http://new-pro.tv:8080/Fernando/123321/61024
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/627fa165965b7b27adb1360502494026.jpg" group-title="Africa DSTV",Af | DSTV: TellyTrack
+http://new-pro.tv:8080/Fernando/123321/60937
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports OTT 1 HD
+http://new-pro.tv:8080/Fernando/123321/60941
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports OTT 2 HD
+http://new-pro.tv:8080/Fernando/123321/60927
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports OTT 3 HD
+http://new-pro.tv:8080/Fernando/123321/61012
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports OTT 4
+http://new-pro.tv:8080/Fernando/123321/61021
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/f2a5f4e70ee5508cd1856a4b5af0aff5.png" group-title="Africa DSTV",Af | DSTV: Super Sports OTT 5
+http://new-pro.tv:8080/Fernando/123321/61046
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports OTT 6 HD
+http://new-pro.tv:8080/Fernando/123321/297290
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports OTT 7 HD
+http://new-pro.tv:8080/Fernando/123321/297291
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Super Sports OTT 8 HD
+http://new-pro.tv:8080/Fernando/123321/297292
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: News ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297425
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="Africa DSTV",Af | DSTV: BBC World News
+http://new-pro.tv:8080/Fernando/123321/60976
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/b9f6875a130e3952b713d11585e4e07e.png" group-title="Africa DSTV",Af | DSTV: CNN International
+http://new-pro.tv:8080/Fernando/123321/60977
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/a0a88d26c12e5e0d1e42a9454131542b.jpg" group-title="Africa DSTV",Af | DSTV: Sky News
+http://new-pro.tv:8080/Fernando/123321/60978
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/1c0a697e99cfd8010795a0d50aaeda9d.png" group-title="Africa DSTV",Af | DSTV: eNCA
+http://new-pro.tv:8080/Fernando/123321/60979
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/8207d9a756d883b6119d1c43eed3cfe1.jpg" group-title="Africa DSTV",Af | DSTV: SABC News
+http://new-pro.tv:8080/Fernando/123321/60980
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/2446945ef624259b0569fc5cde989f6b.png" group-title="Africa DSTV",Af | DSTV: Newzroom Afrika
+http://new-pro.tv:8080/Fernando/123321/60981
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/4f52ab535a7279c03045c19fd9e969d2.png" group-title="Africa DSTV",Af | DSTV: Al Jazeera
+http://new-pro.tv:8080/Fernando/123321/60982
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/cdc2d2728ab2be28ec73ee878fcdf926.jpg" group-title="Africa DSTV",Af | DSTV: Russia Today
+http://new-pro.tv:8080/Fernando/123321/60983
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/5945dd2366734df9bac2323a210d6db4.png" group-title="Africa DSTV",Af | DSTV: Parliamentary Service
+http://new-pro.tv:8080/Fernando/123321/60984
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/a964b2973618e848c8b504f6c7a31ec6.jpg" group-title="Africa DSTV",Af | DSTV: CGTN News
+http://new-pro.tv:8080/Fernando/123321/60985
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/d86dcc10211d375db6145eec60ad56f2.jpg" group-title="Africa DSTV",Af | DSTV: CNBC Africa
+http://new-pro.tv:8080/Fernando/123321/60986
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/d3601d65f5be149e6645aa7d83cbdad4.png" group-title="Africa DSTV",Af | DSTV: Bloomberg News
+http://new-pro.tv:8080/Fernando/123321/60987
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/78492df948ed008f6a6d6fa70bd4e567.jpg" group-title="Africa DSTV",Af | DSTV: Business Day TV
+http://new-pro.tv:8080/Fernando/123321/60988
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/6ade1313b1e6626167bfba71b194eb64.png" group-title="Africa DSTV",Af | DSTV: NDTV 24X7
+http://new-pro.tv:8080/Fernando/123321/60989
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/846b1e8e8fc954f45f69f444ff8320e0.jpg" group-title="Africa DSTV",Af | DSTV: EuroNews HD
+http://new-pro.tv:8080/Fernando/123321/60990
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e4428889b68815ee3d818a294e4842b4.jpg" group-title="Africa DSTV",Af | DSTV: Africa News
+http://new-pro.tv:8080/Fernando/123321/60991
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/f81109d242ae78f0e865b17a1d88f4af.png" group-title="Africa DSTV",Af | DSTV: NHK News
+http://new-pro.tv:8080/Fernando/123321/60994
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Deutsche Welle
+http://new-pro.tv:8080/Fernando/123321/60996
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Kids ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297424
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/918ed66fc55bb226ff2c85716da1c90c.jpg" group-title="Africa DSTV",Af | DSTV: Cartoon Network HD
+http://new-pro.tv:8080/Fernando/123321/60947
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/a9c63aede3ceb20585dd259601a6f3f6.jpg" group-title="Africa DSTV",Af | DSTV: Boomerang HD
+http://new-pro.tv:8080/Fernando/123321/60948
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/c9c6afef702accfdae08d7239bd8d080.JPG" group-title="Africa DSTV",Af | DSTV: Disney Channel HD
+http://new-pro.tv:8080/Fernando/123321/60949
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/7ecee542c33472c3af78f5f5e2fcf534.png" group-title="Africa DSTV",Af | DSTV: Disney Junior HD
+http://new-pro.tv:8080/Fernando/123321/60955
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" group-title="Africa DSTV",Af | DSTV: Nickelodeon HD
+http://new-pro.tv:8080/Fernando/123321/60951
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" group-title="Africa DSTV",Af | DSTV: NickToons HD
+http://new-pro.tv:8080/Fernando/123321/60954
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" group-title="Africa DSTV",Af | DSTV: Nick Jr. HD
+http://new-pro.tv:8080/Fernando/123321/60953
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/52a5fdcc1123b2613f3f583b33d2c004.png" group-title="Africa DSTV",Af | DSTV: Cbeebies
+http://new-pro.tv:8080/Fernando/123321/60952
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/2d118c5a6885d8157a033b30ae6a5c9c.png" group-title="Africa DSTV",Af | DSTV: JimJam
+http://new-pro.tv:8080/Fernando/123321/60956
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/1e9265b75de4df4649e1041a3fe7e664.png" group-title="Africa DSTV",Af | DSTV: eToonz
+http://new-pro.tv:8080/Fernando/123321/60957
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/4ab14b7cd34749667f47e2460667ff9d.png" group-title="Africa DSTV",Af | DSTV: PBS Kids
+http://new-pro.tv:8080/Fernando/123321/60958
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/3b25db8168d1262652e118563e985ac2.jpg" group-title="Africa DSTV",Af | DSTV: Da Vinci
+http://new-pro.tv:8080/Fernando/123321/60960
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/3ba9233f5a1d41471fef39e850eb0fb8.png" group-title="Africa DSTV",Af | DSTV: Mindset
+http://new-pro.tv:8080/Fernando/123321/60961
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Documentary ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297827
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="Africa DSTV",Af | DSTV: Nat Geo HD
+http://new-pro.tv:8080/Fernando/123321/61060
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="Africa DSTV",Af | DSTV: Nat Geo Wild HD
+http://new-pro.tv:8080/Fernando/123321/61061
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6ec2301930109ebd0df73a7a68e26357.jpg" group-title="Africa DSTV",Af | DSTV: History HD
+http://new-pro.tv:8080/Fernando/123321/61064
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" group-title="Africa DSTV",Af | DSTV: Discovery Channel HD
+http://new-pro.tv:8080/Fernando/123321/61017
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ea4371877c5eb48a6b2a963e812ffbbf.png" group-title="Africa DSTV",Af | DSTV: Discovery Family HD
+http://new-pro.tv:8080/Fernando/123321/61030
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/76d8022f58e478b49f24a145f3f8149f.jpg" group-title="Africa DSTV",Af | DSTV: Investigation Discovery HD
+http://new-pro.tv:8080/Fernando/123321/61052
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Wild Earth
+http://new-pro.tv:8080/Fernando/123321/67694
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6199f80a4bc58ab6b1ee9d2fd7039217.jpg" group-title="Africa DSTV",Af | DSTV: BBC Earth HD
+http://new-pro.tv:8080/Fernando/123321/61062
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/7a8646c5eee1db54499430fe0e84a6bd.png" group-title="Africa DSTV",Af | DSTV: CBS Justice HD
+http://new-pro.tv:8080/Fernando/123321/61051
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: People’s Weather
+http://new-pro.tv:8080/Fernando/123321/61059
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/10777c410e07e1b8949c400de9b27e66.png" group-title="Africa DSTV",Af | DSTV: Curiosity Stream HD
+http://new-pro.tv:8080/Fernando/123321/61063
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/21f85c22e354e72285b42519e35ea14b.jpg" group-title="Africa DSTV",Af | DSTV: Ignition
+http://new-pro.tv:8080/Fernando/123321/61065
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Lifestyle & Culture ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297830
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6aa7dc9c2e3aac3fafd36027cd8a8046.jpg" group-title="Africa DSTV",Af | DSTV: E! Entertainment HD
+http://new-pro.tv:8080/Fernando/123321/61020
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: VIA
+http://new-pro.tv:8080/Fernando/123321/61008
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Honey
+http://new-pro.tv:8080/Fernando/123321/297298
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/24eb58612b1ba6e7688c8c92f6c9ac64.png" group-title="Africa DSTV",Af | DSTV: BBC Life Style
+http://new-pro.tv:8080/Fernando/123321/61053
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/037d9cff19cf69d6cbd8ab85f45c5825.jpg" group-title="Africa DSTV",Af | DSTV: Food Network HD
+http://new-pro.tv:8080/Fernando/123321/61054
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/6b08c2fbdf47781a81c85bc02d69eedd.jpg" group-title="Africa DSTV",Af | DSTV: The Home Channel
+http://new-pro.tv:8080/Fernando/123321/61055
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ea10e3a05ec2c2d86df48435b1ec8898.png" group-title="Africa DSTV",Af | DSTV: HGTV
+http://new-pro.tv:8080/Fernando/123321/61056
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/380fe8b2cede2427e80611920087d990.jpg" group-title="Africa DSTV",Af | DSTV: Travel Channel HD
+http://new-pro.tv:8080/Fernando/123321/61058
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/20f4f8d9811a4a5adc90f3704534f3ea.png" group-title="Africa DSTV",Af | DSTV: Spice TV
+http://new-pro.tv:8080/Fernando/123321/61066
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Religion ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297828
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/fb1ab533875951cc24b305df08449589.jpg" group-title="Africa DSTV",Af | DSTV: Dumisa
+http://new-pro.tv:8080/Fernando/123321/60970
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/67e0b90e75de055abdbe87a5a1a6e4f5.png" group-title="Africa DSTV",Af | DSTV: Faith
+http://new-pro.tv:8080/Fernando/123321/60971
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/bd78f8860a29ac0cb8a689a0bc5ed83d.jpg" group-title="Africa DSTV",Af | DSTV: Day Star
+http://new-pro.tv:8080/Fernando/123321/60972
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/3413dded0f550fd03756604fee6722b4.jpg" group-title="Africa DSTV",Af | DSTV: TBN Africa
+http://new-pro.tv:8080/Fernando/123321/60973
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ec63eccbccfbed98dcc9df0e2fe906eb.png" group-title="Africa DSTV",Af | DSTV: iTV Networks
+http://new-pro.tv:8080/Fernando/123321/60974
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/5639ffbbe54e91f4f4ab79a1a0068d78.jpg" group-title="Africa DSTV",Af | DSTV: Emmanuel TV
+http://new-pro.tv:8080/Fernando/123321/60975
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Entertaintment ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297423
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/434afffd5a3425a2d763a7906bebdfe3.jpg" group-title="Africa DSTV",Af | DSTV: M-Net
+http://new-pro.tv:8080/Fernando/123321/61001
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: M-Net Movies 1 HD
+http://new-pro.tv:8080/Fernando/123321/61007
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: M-Net Movies 2 HD
+http://new-pro.tv:8080/Fernando/123321/61005
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: M-Net Movies 3 HD
+http://new-pro.tv:8080/Fernando/123321/61004
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: M-Net Movies 4 HD
+http://new-pro.tv:8080/Fernando/123321/61033
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: M-Net East
+http://new-pro.tv:8080/Fernando/123321/300530
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: M-Net West
+http://new-pro.tv:8080/Fernando/123321/300531
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/4b16934e7fb61fbe17e9b0f3f76b95ef.png" group-title="Africa DSTV",Af | DSTV: Studio Universal
+http://new-pro.tv:8080/Fernando/123321/61009
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: KIX
+http://new-pro.tv:8080/Fernando/123321/297295
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Me
+http://new-pro.tv:8080/Fernando/123321/297294
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/d9034bab2e748b3317f7e47a9ed3c75d.png" group-title="Africa DSTV",Af | DSTV: Universal TV HD
+http://new-pro.tv:8080/Fernando/123321/61013
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/809866eda5da5edbb8404d43badd1aa8.png" group-title="Africa DSTV",Af | DSTV: Telemundo
+http://new-pro.tv:8080/Fernando/123321/61014
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/1302f14a6d78c3eb2290c330204c13cc.png" group-title="Africa DSTV",Af | DSTV: BBC Brit
+http://new-pro.tv:8080/Fernando/123321/61016
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/be370ed458ce00908c7957860b5b4515.png" group-title="Africa DSTV",Af | DSTV: BET
+http://new-pro.tv:8080/Fernando/123321/61025
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/00cd9d325755d0ca77695cbd08cc6bee.png" group-title="Africa DSTV",Af | DSTV: 1 Magic
+http://new-pro.tv:8080/Fernando/123321/61002
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/c10c9ca79be086b234275b8b4410d114.png" group-title="Africa DSTV",Af | DSTV: Lifetime
+http://new-pro.tv:8080/Fernando/123321/61027
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/05f3bbbbcb6ccbdd0ffbd10dd0cfef7e.jpg" group-title="Africa DSTV",Af | DSTV: CBS Reality HD
+http://new-pro.tv:8080/Fernando/123321/61028
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: TLNovelas
+http://new-pro.tv:8080/Fernando/123321/297297
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6a2fd28bbb9a5720e61348235d05cd53.jpg" group-title="Africa DSTV",Af | DSTV: TLC HD
+http://new-pro.tv:8080/Fernando/123321/61029
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e7a2ddd17906fcc18c9c2709ba037c21.png" group-title="Africa DSTV",Af | DSTV: eMovies
+http://new-pro.tv:8080/Fernando/123321/61032
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e553f373bbff68133d5eede38dcd4969.jpg" group-title="Africa DSTV",Af | DSTV: eMovies Extra
+http://new-pro.tv:8080/Fernando/123321/61034
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/08794126a9d7a376ab10ea0202c09315.jpg" group-title="Africa DSTV",Af | DSTV: Comedy Central HD
+http://new-pro.tv:8080/Fernando/123321/61018
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/01f3869164d8b1299b002affe7463018.jpg" group-title="Africa DSTV",Af | DSTV: TNT Africa
+http://new-pro.tv:8080/Fernando/123321/61031
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/ab7f10dc855ce3c68688fb0851609cd4.jpg" group-title="Africa DSTV",Af | DSTV: kyk NET
+http://new-pro.tv:8080/Fernando/123321/61036
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/216e5a0f30e114692c08ab52fb7e7301.png" group-title="Africa DSTV",Af | DSTV: kyk NET & Kie
+http://new-pro.tv:8080/Fernando/123321/61037
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/06e4d3ff6f9d209d9b544bff1bd3541a.png" group-title="Africa DSTV",Af | DSTV: Africa Magic Epic
+http://new-pro.tv:8080/Fernando/123321/61040
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/bba84ff7c721b10508ec95b527b0b62c.png" group-title="Africa DSTV",Af | DSTV: Africa Magic Urban
+http://new-pro.tv:8080/Fernando/123321/61041
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Africa Magic lgbo
+http://new-pro.tv:8080/Fernando/123321/112581
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Maisha Magic Movies HD
+http://new-pro.tv:8080/Fernando/123321/112580
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Africa Magic Showcase
+http://new-pro.tv:8080/Fernando/123321/285608
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Africa Magic Hausa
+http://new-pro.tv:8080/Fernando/123321/300680
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/6ae24f98e4e8a62a5262ddfada7a5911.png" group-title="Africa DSTV",Af | DSTV: Africa Magic Family
+http://new-pro.tv:8080/Fernando/123321/61042
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Africa Magic Yoruba
+http://new-pro.tv:8080/Fernando/123321/180092
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Mzansi Magic HD
+http://new-pro.tv:8080/Fernando/123321/272768
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/911df55b0ec7f3588a667f169efc5769.png" group-title="Africa DSTV",Af | DSTV: Mzansi Bioskop
+http://new-pro.tv:8080/Fernando/123321/61047
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Novela Magic
+http://new-pro.tv:8080/Fernando/123321/297296
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/11bd2de00ea89eadae739ea2dd518d99.jpg" group-title="Africa DSTV",Af | DSTV: Zee World
+http://new-pro.tv:8080/Fernando/123321/61048
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/137dccb8f6ae5eada43d6fc1d2545622.jpg" group-title="Africa DSTV",Af | DSTV: Star Life
+http://new-pro.tv:8080/Fernando/123321/61049
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/914d373c2e92f585242cde572acba905.png" group-title="Africa DSTV",Af | DSTV: ROK
+http://new-pro.tv:8080/Fernando/123321/61050
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/5cf641f254f828c781ebad0fb873a615.jpg" group-title="Africa DSTV",Af | DSTV: SABC 1
+http://new-pro.tv:8080/Fernando/123321/61067
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/b7752374a2031d881db62edd5e42da86.jpg" group-title="Africa DSTV",Af | DSTV: SABC 2
+http://new-pro.tv:8080/Fernando/123321/61068
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/8e6750e0e6fafc0299cdc0a51a68e51c.png" group-title="Africa DSTV",Af | DSTV: SABC 3
+http://new-pro.tv:8080/Fernando/123321/61069
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/4adeba9653b516e7db19bbc7c0af1904.png" group-title="Africa DSTV",Af | DSTV: E.TV
+http://new-pro.tv:8080/Fernando/123321/67692
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/42738fc3cc510a2bff9e46493489025c.png" group-title="Africa DSTV",Af | DSTV: E.TV Extra
+http://new-pro.tv:8080/Fernando/123321/67693
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Big Brother Naija
+http://new-pro.tv:8080/Fernando/123321/112579
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Big Brother Mzansi
+http://new-pro.tv:8080/Fernando/123321/297289
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/aaca76d54bbcc3ffb078467b8683e4d5.jpg" group-title="Africa DSTV",Af | DSTV: Soweto TV
+http://new-pro.tv:8080/Fernando/123321/60940
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Mpuma Kapa TV
+http://new-pro.tv:8080/Fernando/123321/297288
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/698f6461fd143d2be5edf7156b543198.jpg" group-title="Africa DSTV",Af | DSTV: 1 KZN
+http://new-pro.tv:8080/Fernando/123321/60942
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/18f364f9b8b46109f5241039c374b3a6.jpg" group-title="Africa DSTV",Af | DSTV: Tshwane TV
+http://new-pro.tv:8080/Fernando/123321/60943
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/36f88975199c43ecc3277c38f1e070f6.jpg" group-title="Africa DSTV",Af | DSTV: Cape Town TV
+http://new-pro.tv:8080/Fernando/123321/60944
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/87a06f71eb2ac4b3edd004f7db806aaa.png" group-title="Africa DSTV",Af | DSTV: Gau TV
+http://new-pro.tv:8080/Fernando/123321/60945
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/b2cb37a93fbd5dc31e3a659e38f77b28.jpg" group-title="Africa DSTV",Af | DSTV: Lesotho TV
+http://new-pro.tv:8080/Fernando/123321/60946
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/acb8c40891dd203b391a89b19f83ba1e.png" group-title="Africa DSTV",Af | DSTV: RAI Italia
+http://new-pro.tv:8080/Fernando/123321/60992
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/bfb983977b3c3ec9962adc3544ca269d.png" group-title="Africa DSTV",Af | DSTV: RTP Internacional
+http://new-pro.tv:8080/Fernando/123321/60998
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/42a8a1d19fd0ae3f834fec06836aaf9c.png" group-title="Africa DSTV",Af | DSTV: TV5 Monde Afrique
+http://new-pro.tv:8080/Fernando/123321/60995
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/a28d12d36842113b42976a93103c3e09.png" group-title="Africa DSTV",Af | DSTV: CCTV 4
+http://new-pro.tv:8080/Fernando/123321/60997
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e4fdb86ac48c6043587f7682fd479688.png" group-title="Africa DSTV",Af | DSTV: Real Time
+http://new-pro.tv:8080/Fernando/123321/61043
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/838becb8ef56b43226c18572165e0e7d.png" group-title="Africa DSTV",Af | DSTV: Moja Love
+http://new-pro.tv:8080/Fernando/123321/61044
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/5a5a1ae280444781b3dbc3a9071f7b84.jpg" group-title="Africa DSTV",Af | DSTV: M-Net City
+http://new-pro.tv:8080/Fernando/123321/61011
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Flek Net
+http://new-pro.tv:8080/Fernando/123321/112584
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Bukedde
+http://new-pro.tv:8080/Fernando/123321/60993
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: Boss Brothers TV
+http://new-pro.tv:8080/Fernando/123321/61039
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: The Holiday Channel
+http://new-pro.tv:8080/Fernando/123321/297293
+#EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Music ✦●✦
+http://new-pro.tv:8080/Fernando/123321/297829
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e5a9f9eb6a601899f63972888cd6a71f.jpg" group-title="Africa DSTV",Af | DSTV: kyk NET Nou!
+http://new-pro.tv:8080/Fernando/123321/61038
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/01302e16b5850b55eb8f5c59f7237c9f.jpg" group-title="Africa DSTV",Af | DSTV: Channel O
+http://new-pro.tv:8080/Fernando/123321/60962
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/51137f17b8ac7d54e1b877e7912ebe9e.jpg" group-title="Africa DSTV",Af | DSTV: Mzansi Magic Music
+http://new-pro.tv:8080/Fernando/123321/60963
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/acabcaf49d52cb94802c5f4b032c7883.png" group-title="Africa DSTV",Af | DSTV: MTV Base
+http://new-pro.tv:8080/Fernando/123321/60964
+#EXTINF:-1 group-title="Africa DSTV",Af | DSTV: MTV Hits
+http://new-pro.tv:8080/Fernando/123321/60965
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/2e84096e3232283a1d3b5c894635d8c0.jpg" group-title="Africa DSTV",Af | DSTV: MTV Music HD
+http://new-pro.tv:8080/Fernando/123321/61026
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/d27711c47bae340da370a666371e723a.JPG" group-title="Africa DSTV",Af | DSTV: Trace Africa
+http://new-pro.tv:8080/Fernando/123321/67695
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/5df4c07b2b191460bf431d3383963fb5.JPG" group-title="Africa DSTV",Af | DSTV: Trace Gospel
+http://new-pro.tv:8080/Fernando/123321/67696
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/3954377f44bff1dde14365ee3358e505.JPG" group-title="Africa DSTV",Af | DSTV: Trace Urban
+http://new-pro.tv:8080/Fernando/123321/60966
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/e5bf7d1f76acaaf5fc4400175e8bf31a.png" group-title="Africa DSTV",Af | DSTV: Sound City
+http://new-pro.tv:8080/Fernando/123321/60967
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/8c8537dc0838769316de532b6bf4eeed.jpg" group-title="Africa DSTV",Af | DSTV: One Gospel
+http://new-pro.tv:8080/Fernando/123321/60968
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/d5e12c0ef006f5b4aaa8f648de971f06.jpg" group-title="Bulgaria",Bu: DSTV
+http://new-pro.tv:8080/Fernando/123321/28175
+
 
