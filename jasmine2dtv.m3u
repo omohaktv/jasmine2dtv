@@ -1,57 +1,7 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:-1,DSTV: GUPERSPORT 3
+#EXTINF:-1,DSTV: UPERSPORT 3
 https://king.hockeynews.club/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIyIDExOjAwOjE0IFBNJmhhc2hfdmFsdWU9S3N5dGRlSHpkaXR0MnVBcHdBMEcwZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTM0LjEyMi4xMjAuMTYzJnN0cm1fbGVuPTU=
-#EXTINF:-1,DSTV: M-Net Movies 1
-http://fortv.cc:8080/live/alphonso/alphonso/121698.m3u8
-#EXTINF:-1,DSTV: M-Net Movies 3
-http://fortv.cc:8080/live/alphonso/alphonso/121699.m3u8
-#EXTINF:-1,DSTV: M-Net Movies 4
-http://fortv.cc:8080/live/alphonso/alphonso/121700.m3u8
-#EXTINF:-1,DSTV: One Gospel
-http://fortv.cc:8080/live/alphonso/alphonso/121703.m3u8
-#EXTINF:-1,DSTV: Mzansi Bioskop
-http://fortv.cc:8080/live/alphonso/alphonso/121704.m3u8
-#EXTINF:-1,DSTV: Mzansi Magic
-http://fortv.cc:8080/live/alphonso/alphonso/121705.m3u8
-#EXTINF:-1,DSTV: Mzansi Wethu
-http://fortv.cc:8080/live/alphonso/alphonso/121706.m3u8
-#EXTINF:-1,DSTV: TNT Africa
-http://fortv.cc:8080/live/alphonso/alphonso/121708.m3u8
-#EXTINF:-1,DSTV: TRACE Africa
-http://fortv.cc:8080/live/alphonso/alphonso/121709.m3u8
-#EXTINF:-1,DSTV: TRACE Gospel
-http://fortv.cc:8080/live/alphonso/alphonso/121710.m3u8
-#EXTINF:-1,DSTV: TRACE Urban
-http://fortv.cc:8080/live/alphonso/alphonso/121711.m3u8
-#EXTINF:-1,DSTV: Travel Channel
-http://fortv.cc:8080/live/alphonso/alphonso/121712.m3u8
-#EXTINF:-1,DSTV: Tshwane TV
-http://fortv.cc:8080/live/alphonso/alphonso/121713.m3u8
-#EXTINF:-1,DSTV: TV5 Monde Afrique
-http://fortv.cc:8080/live/alphonso/alphonso/121714.m3u8
-#EXTINF:-1,DSTV: Africa Magic Family
-http://fortv.cc:8080/live/alphonso/alphonso/121715.m3u8
-#EXTINF:-1,DSTV: Africa Magic Urban
-http://fortv.cc:8080/live/alphonso/alphonso/121716.m3u8
-#EXTINF:-1,DSTV: Cape Town TV
-http://fortv.cc:8080/live/alphonso/alphonso/121717.m3u8
-#EXTINF:-1,DSTV: Cbeebies
-http://fortv.cc:8080/live/alphonso/alphonso/121718.m3u8
-#EXTINF:-1,DSTV: Dumisa
-http://fortv.cc:8080/live/alphonso/alphonso/121719.m3u8
-#EXTINF:-1,DSTV: e.tv
-http://fortv.cc:8080/live/alphonso/alphonso/121720.m3u8
-#EXTINF:-1,DSTV: Emmanuel TV
-http://fortv.cc:8080/live/alphonso/alphonso/121721.m3u8
-#EXTINF:-1,DSTV: kykNET
-http://fortv.cc:8080/live/alphonso/alphonso/121722.m3u8
-#EXTINF:-1,DSTV: kykNET Nou!
-http://fortv.cc:8080/live/alphonso/alphonso/121723.m3u8
-#EXTINF:-1,DSTV: 1KZN
-http://fortv.cc:8080/live/alphonso/alphonso/121724.m3u8
-#EXTINF:-1,DSTV: KIX
-http://fortv.cc:8080/live/alphonso/alphonso/121725.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Africa DSTV",✦●✦ Af | DSTV: Sports ✦●✦
 http://new-pro.tv:8080/Fernando/123321/297422
