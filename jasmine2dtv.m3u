@@ -2,1704 +2,467 @@
 #EXTINF:-1,DSTV: OMOHAK TV WATCH MORE HD
 #EXTM3U
 #EXTINF:-1,---- AF DSTV ----https://t.me/omohaktv
-
-http://megatv.me:5890/live/rahma/12345/94020.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT GRANDSTAND HD
-http://megatv.me:5890/live/rahma/12345/88361.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT MAXCIMO 1 HD
-http://megatv.me:5890/live/rahma/12345/88357.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT FOOTBALL HD
-http://megatv.me:5890/live/rahma/12345/88365.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT CRICKET HD
-http://megatv.me:5890/live/rahma/12345/88358.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT ACTION HD
-http://megatv.me:5890/live/rahma/12345/88363.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT RUGBY HD
-http://megatv.me:5890/live/rahma/12345/88355.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT GOLF HD
-http://megatv.me:5890/live/rahma/12345/88356.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT TINES HD
-http://megatv.me:5890/live/rahma/12345/94730.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT MOTORSPORT HD
-http://megatv.me:5890/live/rahma/12345/94019.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 1 HD
-http://megatv.me:5890/live/rahma/12345/88364.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 2 HD
-http://megatv.me:5890/live/rahma/12345/88362.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 3 HD
-http://megatv.me:5890/live/rahma/12345/94731.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 4 HD
-http://megatv.me:5890/live/rahma/12345/94732.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT BLITZ HD
-http://megatv.me:5890/live/rahma/12345/88366.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT LALIGA HD
-http://megatv.me:5890/live/rahma/12345/88354.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT PSL HD
-http://megatv.me:5890/live/rahma/12345/88359.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT WWE HD
-http://megatv.me:5890/live/rahma/12345/94733.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT PREMIER LEAGUE HD
-http://megatv.me:5890/live/rahma/12345/88360.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7731ddf2b52985e5d3eee8c486b659fe.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Ginx eSports TV
-http://megatv.me:5890/live/rahma/12345/142776.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/309652db3091d04420b25b91c77ccdc8.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Blitz
-http://megatv.me:5890/live/rahma/12345/142777.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Grand Stand
-http://megatv.me:5890/live/rahma/12345/142778.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8aa40f31d2eae68b478b127ca9de3172.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports PSL 1
-http://megatv.me:5890/live/rahma/12345/142779.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Premier League
-http://megatv.me:5890/live/rahma/12345/142780.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports La Liga
-http://megatv.me:5890/live/rahma/12345/142781.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Football 4
-http://megatv.me:5890/live/rahma/12345/142782.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 1
-http://megatv.me:5890/live/rahma/12345/142783.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 2
-http://megatv.me:5890/live/rahma/12345/142784.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 3
-http://megatv.me:5890/live/rahma/12345/142785.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/08caa5f7da16a73265ee82b38ce1d6c5.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 4
-http://megatv.me:5890/live/rahma/12345/142786.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Action
-http://megatv.me:5890/live/rahma/12345/142787.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Rugby
-http://megatv.me:5890/live/rahma/12345/142788.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Cricket
-http://megatv.me:5890/live/rahma/12345/142789.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/98f114d363a02282e63261dbebe596ae.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Golf
-http://megatv.me:5890/live/rahma/12345/142790.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ab570959783f998235df4628a6c57a35.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Tennis
-http://megatv.me:5890/live/rahma/12345/142791.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports MotorSports
-http://megatv.me:5890/live/rahma/12345/142792.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: ESPN 1
-http://megatv.me:5890/live/rahma/12345/142793.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: ESPN 2
-http://megatv.me:5890/live/rahma/12345/142794.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7ba5fa833ff6690e3862e62ec7b76dcb.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SuperSport Maximo 1
-http://megatv.me:5890/live/rahma/12345/142795.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/26439e65592a2d37a1840281cae89e39.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sport Play
-http://megatv.me:5890/live/rahma/12345/142796.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/70212358c7f709bd20407ce657249a82.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: WWE Channel
-http://megatv.me:5890/live/rahma/12345/142797.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/3347fe0df52480201ca78bae55e90de9.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TellyTrack
-http://megatv.me:5890/live/rahma/12345/142798.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 1 HD
-http://megatv.me:5890/live/rahma/12345/142799.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 2 HD
-http://megatv.me:5890/live/rahma/12345/142800.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 3 HD
-http://megatv.me:5890/live/rahma/12345/142801.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 4
-http://megatv.me:5890/live/rahma/12345/142802.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/072ca7b4d6e8549866af9c7a10c3afe2.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 5
-http://megatv.me:5890/live/rahma/12345/142803.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 6 HD
-http://megatv.me:5890/live/rahma/12345/142804.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 7 HD
-http://megatv.me:5890/live/rahma/12345/142805.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 8 HD
-http://megatv.me:5890/live/rahma/12345/142806.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: News ✦●✦
-http://megatv.me:5890/live/rahma/12345/142807.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9457565346900b83c9b497b8b84458a5.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC World News
-http://megatv.me:5890/live/rahma/12345/142808.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/51e674b9c56bd2921ffd956eb21492ac.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CNN International
-http://megatv.me:5890/live/rahma/12345/142809.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1a59414bd71ec5c9d21bb192391dd55e.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Sky News
-http://megatv.me:5890/live/rahma/12345/142810.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0a662098953c78c51a1058dc2115b838.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eNCA
-http://megatv.me:5890/live/rahma/12345/142811.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e0ec6440874919275a358fbbf7416f46.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC News
-http://megatv.me:5890/live/rahma/12345/142812.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/059d0340058bce64bea3c190c782939e.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Newzroom Afrika
-http://megatv.me:5890/live/rahma/12345/142813.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c1016ff64ec8934a970772c806d91797.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Al Jazeera
-http://megatv.me:5890/live/rahma/12345/142814.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d15250eb52d3adcc2a579eddf6777fce.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Russia Today
-http://megatv.me:5890/live/rahma/12345/142815.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/3000802cff2b83cc0c9c3cf200396c32.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Parliamentary Service
-http://megatv.me:5890/live/rahma/12345/142816.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6528e7622c1ca0fd87de868fcb547169.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CGTN News
-http://megatv.me:5890/live/rahma/12345/142817.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/46863c0b5c87af5167fe9429583690f1.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CNBC Africa
-http://megatv.me:5890/live/rahma/12345/142818.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ddd5fd41362fe24e8321660f2929ec11.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Bloomberg News
-http://megatv.me:5890/live/rahma/12345/142819.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2abb62e5cf0fe225ab106d79b41ba68d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Business Day TV
-http://megatv.me:5890/live/rahma/12345/142820.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b7a006550af51dfdd78e0cb4e87dd81a.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: NDTV 24X7
-http://megatv.me:5890/live/rahma/12345/142821.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/307d7c906b9feb59a6d4062b4bf1557a.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: EuroNews HD
-http://megatv.me:5890/live/rahma/12345/142822.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f75b0f4c6c742c18957eda43a88838c3.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa News
-http://megatv.me:5890/live/rahma/12345/142823.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7748ece81990385c05339735ea79593d.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: NHK News
-http://megatv.me:5890/live/rahma/12345/142824.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Deutsche Welle
-http://megatv.me:5890/live/rahma/12345/142825.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Kids ✦●✦
-http://megatv.me:5890/live/rahma/12345/142826.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9c0a0fcdefec4740178730f1e37aa7f1.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Cartoon Network HD
-http://megatv.me:5890/live/rahma/12345/142827.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1e6c80d4f771a70ca207fba92e225ac5.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Boomerang HD
-http://megatv.me:5890/live/rahma/12345/142828.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0237aea03ef924f486fae0da496a0c6f.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Disney Channel HD
-http://megatv.me:5890/live/rahma/12345/142829.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/5345114efe3d68f8e6b121985b83d473.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Disney Junior HD
-http://megatv.me:5890/live/rahma/12345/142830.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0c61d037db1e3d58141db8a8309a8e68.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nickelodeon HD
-http://megatv.me:5890/live/rahma/12345/142831.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/05c50a1d4482a11b8203938c24b3bbdf.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: NickToons HD
-http://megatv.me:5890/live/rahma/12345/142832.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/20859ca7d78901ac78dfbde700623896.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nick Jr. HD
-http://megatv.me:5890/live/rahma/12345/142833.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/bb036be32778f47f70966273ebcbd5d4.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Cbeebies
-http://megatv.me:5890/live/rahma/12345/142834.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/200a6f6455e369991e72fff1843235e5.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: JimJam
-http://megatv.me:5890/live/rahma/12345/142835.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/28883ff48adcee161e6f0ed89758725b.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eToonz
-http://megatv.me:5890/live/rahma/12345/142836.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/485148e3d18913ff1c0769485df60df2.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: PBS Kids
-http://megatv.me:5890/live/rahma/12345/142837.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0b2f3064a85ab4e807b6176b9a819ec6.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Da Vinci
-http://megatv.me:5890/live/rahma/12345/142838.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6ebc9616f4cc782838c1aaa9cce99522.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mindset
-http://megatv.me:5890/live/rahma/12345/142839.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Documentary ✦●✦
-http://megatv.me:5890/live/rahma/12345/142840.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6f735e41550961a4b57de91897d15a49.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nat Geo HD
-http://megatv.me:5890/live/rahma/12345/142841.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d035a8b2a3add9fd9c000a4327bd0f0d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nat Geo Wild HD
-http://megatv.me:5890/live/rahma/12345/142842.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0fab07dfd04593ff977009ef4a4f8f20.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: History HD
-http://megatv.me:5890/live/rahma/12345/142843.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fa5c442c54c296fae0507a1c210893e6.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Discovery Channel HD
-http://megatv.me:5890/live/rahma/12345/142844.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/94ecbb43bf8ada156f8f5bbb0cea79cd.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Discovery Family HD
-http://megatv.me:5890/live/rahma/12345/142845.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ac53e77c8d63ff426498604bff8c89bc.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Investigation Discovery HD
-http://megatv.me:5890/live/rahma/12345/142846.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Wild Earth
-http://megatv.me:5890/live/rahma/12345/142847.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/928d7ac549a8f0e5742b3f19acc0b416.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC Earth HD
-http://megatv.me:5890/live/rahma/12345/142848.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d92a54f2dd3fb13a095a4be56cce97ee.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CBS Justice HD
-http://megatv.me:5890/live/rahma/12345/142849.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: People’s Weather
-http://megatv.me:5890/live/rahma/12345/142850.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8c385e31b43507c28a2110d6c3877033.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Curiosity Stream HD
-http://megatv.me:5890/live/rahma/12345/142851.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a5ec3d8e6711f7817313c12799e2188e.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Ignition
-http://megatv.me:5890/live/rahma/12345/142852.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Lifestyle & Culture ✦●✦
-http://megatv.me:5890/live/rahma/12345/142853.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a9ff5a95e34e1ff1dbb638813fc49f92.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: E! Entertainment HD
-http://megatv.me:5890/live/rahma/12345/142854.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: VIA
-http://megatv.me:5890/live/rahma/12345/142855.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Honey
-http://megatv.me:5890/live/rahma/12345/142856.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/448b9016941ce49a0ccdb0a7e3847046.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC Life Style
-http://megatv.me:5890/live/rahma/12345/142857.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8bf989599955022d30331c6d0685d573.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Food Network HD
-http://megatv.me:5890/live/rahma/12345/142858.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/52cd06a0600b832340c60962680c4bb0.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: The Home Channel
-http://megatv.me:5890/live/rahma/12345/142859.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e36cb5481f5224eef68427f5164330e5.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: HGTV
-http://megatv.me:5890/live/rahma/12345/142860.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9f95a597a1a026bd23597a16293ae884.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Travel Channel HD
-http://megatv.me:5890/live/rahma/12345/142861.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/aeaf61b0dc31694538118924bcdfcd53.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Spice TV
-http://megatv.me:5890/live/rahma/12345/142862.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Religion ✦●✦
-http://megatv.me:5890/live/rahma/12345/142863.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6a86337a40e49b356f674d798022f251.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Dumisa
-http://megatv.me:5890/live/rahma/12345/142864.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7b1c9fd5c90996fa20091b84223ab973.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Faith
-http://megatv.me:5890/live/rahma/12345/142865.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/490b2479d23707adc5d47cb423788bc7.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Day Star
-http://megatv.me:5890/live/rahma/12345/142866.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e32b4d753359f698cfddbb9baf923421.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TBN Africa
-http://megatv.me:5890/live/rahma/12345/142867.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/cdf69bd9ac91bc38750d4463d65041bf.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: iTV Networks
-http://megatv.me:5890/live/rahma/12345/142868.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6608c76b38ad54818ca47f671ba950b5.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Emmanuel TV
-http://megatv.me:5890/live/rahma/12345/142869.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Entertaintment ✦●✦
-http://megatv.me:5890/live/rahma/12345/142870.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fb851d14d1cfbe45f7978085e8507aa6.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net
-http://megatv.me:5890/live/rahma/12345/142871.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 1 HD
-http://megatv.me:5890/live/rahma/12345/142872.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 2 HD
-http://megatv.me:5890/live/rahma/12345/142873.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 3 HD
-http://megatv.me:5890/live/rahma/12345/142874.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 4 HD
-http://megatv.me:5890/live/rahma/12345/142875.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net East
-http://megatv.me:5890/live/rahma/12345/142876.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net West
-http://megatv.me:5890/live/rahma/12345/142877.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e3e0b75f08c27774b8ae77003c9d19fa.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Studio Universal
-http://megatv.me:5890/live/rahma/12345/142878.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: KIX
-http://megatv.me:5890/live/rahma/12345/142879.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Me
-http://megatv.me:5890/live/rahma/12345/142880.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/18f56fc2eb6d50c54c91fca062e371d1.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Universal TV HD
-http://megatv.me:5890/live/rahma/12345/142881.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/36bcfa19596969922b9457686fc9a4d7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Telemundo
-http://megatv.me:5890/live/rahma/12345/142882.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/285b92cfe0eb3498cf6eec89ec901d4e.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC Brit
-http://megatv.me:5890/live/rahma/12345/142883.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/53720e2b6d9d07ca3652e9ef52820321.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BET
-http://megatv.me:5890/live/rahma/12345/142884.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/64d4e88620f7ed99008b56c68a5e70e7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: 1 Magic
-http://megatv.me:5890/live/rahma/12345/142885.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ae58a72e00153346bc38221ba3087b15.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Lifetime
-http://megatv.me:5890/live/rahma/12345/142886.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/5ae0c6ba097f01b88586995db291736b.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CBS Reality HD
-http://megatv.me:5890/live/rahma/12345/142887.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TLNovelas
-http://megatv.me:5890/live/rahma/12345/142888.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ad30b9992a835f5516b617f2f4c5767d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TLC HD
-http://megatv.me:5890/live/rahma/12345/142889.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4f7b7297c8659505b5aae8e35cfc8a04.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eMovies
-http://megatv.me:5890/live/rahma/12345/142890.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/dce76d76daeea175fb80ea03e4739c24.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eMovies Extra
-http://megatv.me:5890/live/rahma/12345/142891.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d10d26f6c1f769d4d7f5537177a16023.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Comedy Central HD
-http://megatv.me:5890/live/rahma/12345/142892.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c7a89ae8674c90f0347498e404030190.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TNT Africa
-http://megatv.me:5890/live/rahma/12345/142893.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/73110bdbbe54c81a05d700682596bf57.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: kyk NET
-http://megatv.me:5890/live/rahma/12345/142894.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/dc55c714798e63f1f72961d0ca21b47b.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: kyk NET & Kie
-http://megatv.me:5890/live/rahma/12345/142895.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a69c9f97d008c80bc362edd06f37717d.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Epic
-http://megatv.me:5890/live/rahma/12345/142896.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/928f3d7a4fc244bb8f25cef54b8fd6d1.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Urban
-http://megatv.me:5890/live/rahma/12345/142897.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic lgbo
-http://megatv.me:5890/live/rahma/12345/142898.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Maisha Magic Movies HD
-http://megatv.me:5890/live/rahma/12345/142899.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Showcase
-http://megatv.me:5890/live/rahma/12345/142900.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a6c0d7bf5b98eec86f1564085150c8d7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Family
-http://megatv.me:5890/live/rahma/12345/142901.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Yoruba
-http://megatv.me:5890/live/rahma/12345/142902.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mzansi Magic HD
-http://megatv.me:5890/live/rahma/12345/142903.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d5e27bef1bfbc2e48807bbd6f200d008.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mzansi Bioskop
-http://megatv.me:5890/live/rahma/12345/142904.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Novela Magic
-http://megatv.me:5890/live/rahma/12345/142905.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/96badd4f57ad06251b0670d34edcae1d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Zee World
-http://megatv.me:5890/live/rahma/12345/142906.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ba4899e2e2b9fbf563442d89b0b603e4.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Star Life
-http://megatv.me:5890/live/rahma/12345/142907.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/cc015b0648d48ef5c14a315e856ea0f6.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: ROK
-http://megatv.me:5890/live/rahma/12345/142908.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/db134030f38b7ad82c2098f79c4ed4d3.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC 1
-http://megatv.me:5890/live/rahma/12345/142909.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/11e09f6c5d139a15150c67eca48bae90.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC 2
-http://megatv.me:5890/live/rahma/12345/142910.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/55920924f3f2ebeba4cc392d106d6732.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC 3
-http://megatv.me:5890/live/rahma/12345/142911.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/13761e6f2f56e172bee3fdc6547a8050.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: E.TV
-http://megatv.me:5890/live/rahma/12345/142912.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d43017b9d998392412e9dd38dccf877f.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: E.TV Extra
-http://megatv.me:5890/live/rahma/12345/142913.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Big Brother Naija
-http://megatv.me:5890/live/rahma/12345/142914.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Big Brother Mzansi
-http://megatv.me:5890/live/rahma/12345/142915.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fa24bf493a97634d8c7723bf5bed5f04.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Soweto TV
-http://megatv.me:5890/live/rahma/12345/142916.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mpuma Kapa TV
-http://megatv.me:5890/live/rahma/12345/142917.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/542319e31a1dec12a84c9bcf2d733660.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: 1 KZN
-http://megatv.me:5890/live/rahma/12345/142918.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/47e65437810a604b095a4fe78c396940.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Tshwane TV
-http://megatv.me:5890/live/rahma/12345/142919.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/252d3b9e1976f8c8417e71076aae2478.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Cape Town TV
-http://megatv.me:5890/live/rahma/12345/142920.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/22e346d804fa1823773eafc5fad4fa09.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Gau TV
-http://megatv.me:5890/live/rahma/12345/142921.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b6ebbc2681616cf402ac91e27300a1d7.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Lesotho TV
-http://megatv.me:5890/live/rahma/12345/142922.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c88ee4348587beb6a31d0762b0f79ca7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: RAI Italia
-http://megatv.me:5890/live/rahma/12345/142923.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/30eac9e5a08779ef45dd2ab09c9630ed.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: RTP Internacional
-http://megatv.me:5890/live/rahma/12345/142924.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2e1bc0a8b1f1c3be418f4dc8aa7bed52.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TV5 Monde Afrique
-http://megatv.me:5890/live/rahma/12345/142925.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c8f9678d5a7248abcd9ab038bc6feef8.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CCTV 4
-http://megatv.me:5890/live/rahma/12345/142926.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f172befad37d22f952ae7d1796e04823.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Real Time
-http://megatv.me:5890/live/rahma/12345/142927.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/00a76750dd12ac309cf5bf10698a2c60.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Moja Love
-http://megatv.me:5890/live/rahma/12345/142928.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b307cd4e26328b5d9b5452cb54fdd746.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net City
-http://megatv.me:5890/live/rahma/12345/142929.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Flek Net
-http://megatv.me:5890/live/rahma/12345/142930.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Bukedde
-http://megatv.me:5890/live/rahma/12345/142931.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Boss Brothers TV
-http://megatv.me:5890/live/rahma/12345/142932.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: The Holiday Channel
-http://megatv.me:5890/live/rahma/12345/142933.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Music ✦●✦
-http://megatv.me:5890/live/rahma/12345/142934.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9cc538ff04b7d6e7a73306f27951a76a.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: kyk NET Nou!
-http://megatv.me:5890/live/rahma/12345/142935.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7414143f8d58812066c4b2c6c0dba38c.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Channel O
-http://megatv.me:5890/live/rahma/12345/142936.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/82ce94e6a9648e20a30a4b861b43566d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mzansi Magic Music
-http://megatv.me:5890/live/rahma/12345/142937.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e64810d032e49cb6c764f4815ae186b1.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: MTV Base
-http://megatv.me:5890/live/rahma/12345/142938.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: MTV Hits
-http://megatv.me:5890/live/rahma/12345/142939.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2f9908ff3ced13b4520b6bd90568ec0d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: MTV Music HD
-http://megatv.me:5890/live/rahma/12345/142940.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4c608e4aaaac0921826dce30f027adbb.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Trace Africa
-http://megatv.me:5890/live/rahma/12345/142941.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fe5c184caded9a83debba01655f7cfac.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Trace Gospel
-http://megatv.me:5890/live/rahma/12345/142942.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6b7ca22ced58291bcb3885913a656827.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Trace Urban
-http://megatv.me:5890/live/rahma/12345/142943.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f3b33b83b6c9329b0af5a8802ae863ec.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Sound City
-http://megatv.me:5890/live/rahma/12345/142944.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4abbf7031391fd2086be5053a22e49db.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: One Gospel
-http://megatv.me:5890/live/rahma/12345/142945.m3u8
-#EXTINF:-1 group-title="AFRICA",Sud 24 SAT DSTV AF
-http://megatv.me:5890/live/rahma/12345/124416.m3u8
-#EXTINF:-1 group-title="AFRICA",TVM 1 DSTV AF
-http://megatv.me:5890/live/rahma/12345/124426.m3u8
-#EXTINF:-1 group-title="AFRICA",TVM 2 DSTV AF
-http://megatv.me:5890/live/rahma/12345/124428.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/87e2fb37ab92550dffcae0bd961f6fa4.jpg" group-title="BULGARIA",Bu: DSTV
-http://megatv.me:5890/live/rahma/12345/146577.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a199ee8ada74099377a8b6dc1efd1595.png" group-title="FRANCE MUSIQUE",TRACE AFRICA FHD FR
-http://megatv.me:5890/live/rahma/12345/687.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8c067dbe8a7c2f47a349d963b4ee8755.png" group-title="PORTUGAL",RTP AFRICA PT
-http://megatv.me:5890/live/rahma/12345/1025.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a81639bfdd5916e91869f3ac66c4b868.jpg" group-title="VOD DRAMA FR",Africa United (2010)
-http://megatv.me:5890/movie/rahma/12345/102459.avi
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/34fea3cb8b48a2f16bee24a64641cccb.jpg" group-title="MOVIES Subtitle AR 2022",Escape Through Africa (2022)
-http://megatv.me:5890/movie/rahma/12345/160500.mp4
-#EXTINF:-1,---- AF | AFRICA ----
-http://megatv.me:5890/live/rahma/12345/57892.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Addis TV
-http://megatv.me:5890/live/rahma/12345/142946.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: DAKAR TV -Senegal
-http://megatv.me:5890/live/rahma/12345/142947.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: NAHOO HD
-http://megatv.me:5890/live/rahma/12345/142948.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Tawhid (SN)
-http://megatv.me:5890/live/rahma/12345/142949.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/461c67e46149888584aa535147fecf46.jpg" group-title="AFRICA",AFRICA: JTV -Ethiopia
-http://megatv.me:5890/live/rahma/12345/142950.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Eriteria TV
-http://megatv.me:5890/live/rahma/12345/142951.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4cf6b8536c6d765a9372119c7b74bcd5.png" group-title="AFRICA",AFRICA: ABN TV -Nigeria
-http://megatv.me:5890/live/rahma/12345/142952.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: GGM TV -Senegal
-http://megatv.me:5890/live/rahma/12345/142953.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: TFM -Senegal
-http://megatv.me:5890/live/rahma/12345/142954.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: TFM Religions -Senegal
-http://megatv.me:5890/live/rahma/12345/142955.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Love World Mena TV
-http://megatv.me:5890/live/rahma/12345/142956.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Alkhayria Coran Tv -Senegal
-http://megatv.me:5890/live/rahma/12345/142957.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7ae4f57c86a89f91977ea91e50c3c2e7.jpg" group-title="AFRICA",AFRICA: SN TV
-http://megatv.me:5890/live/rahma/12345/142958.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: A2i Music TV -Senegal
-http://megatv.me:5890/live/rahma/12345/142959.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Africa 7 -Senegal
-http://megatv.me:5890/live/rahma/12345/142960.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: NAGO TV -Haiti
-http://megatv.me:5890/live/rahma/12345/142961.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: LERAL TV (SN)
-http://megatv.me:5890/live/rahma/12345/142962.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Benie TV
-http://megatv.me:5890/live/rahma/12345/142963.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: D5TV -Senegal
-http://megatv.me:5890/live/rahma/12345/142964.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: ITV -Senegal
-http://megatv.me:5890/live/rahma/12345/142965.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: TRACE LATINA
-http://megatv.me:5890/live/rahma/12345/142966.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Lamp Fall -Senegal
-http://megatv.me:5890/live/rahma/12345/142967.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Lumire TV
-http://megatv.me:5890/live/rahma/12345/142968.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: NTV
-http://megatv.me:5890/live/rahma/12345/142969.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Prime Media HD
-http://megatv.me:5890/live/rahma/12345/142970.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Hadi TV1
-http://megatv.me:5890/live/rahma/12345/142971.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: RTJ TV -Senegal
-http://megatv.me:5890/live/rahma/12345/142972.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Surnaturel TV
-http://megatv.me:5890/live/rahma/12345/142973.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: 2S TV (sn)
-http://megatv.me:5890/live/rahma/12345/142974.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: BICHRI Senegal
-http://megatv.me:5890/live/rahma/12345/142975.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: CAMERON Afrique Media TV
-http://megatv.me:5890/live/rahma/12345/142976.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: CRTV
-http://megatv.me:5890/live/rahma/12345/142977.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: IMPACT TV (BF) RELIGIOUS
-http://megatv.me:5890/live/rahma/12345/142978.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: SOMALILAND TV
-http://megatv.me:5890/live/rahma/12345/142979.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: VOX AFRICA
-http://megatv.me:5890/live/rahma/12345/142980.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: TVS Senegal
-http://megatv.me:5890/live/rahma/12345/142981.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Trace Naija
-http://megatv.me:5890/live/rahma/12345/142982.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Y254 Kenya
-http://megatv.me:5890/live/rahma/12345/142983.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0e17b8f53f970814d8e0a935a6d072ce.JPG" group-title="AFRICA",AFRICA: Sahel TV
-http://megatv.me:5890/live/rahma/12345/142984.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/aae12cddaece5f740500d1a718a7595b.jpg" group-title="AFRICA",AFRICA: RTI 1
-http://megatv.me:5890/live/rahma/12345/142985.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/be42e70913d24ff17ecd0aba535fab7e.jpg" group-title="AFRICA",AFRICA: Eri TV Eritrea
-http://megatv.me:5890/live/rahma/12345/142986.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Telesud -Senegal
-http://megatv.me:5890/live/rahma/12345/142987.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7664034496d375705a6dc885d590ffd6.jpg" group-title="AFRICA",AFRICA: RT
-http://megatv.me:5890/live/rahma/12345/142988.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/07b97caf04b9e6ce7b8af753f17b9945.jpg" group-title="AFRICA",AFRICA: RT France
-http://megatv.me:5890/live/rahma/12345/142989.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/64dfc76337b465fcd93b40f73781b6e6.jpg" group-title="AFRICA",AFRICA: TV5 Monde info
-http://megatv.me:5890/live/rahma/12345/142990.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/eff710ecafe4fb88d3e106d956dc284a.jpg" group-title="AFRICA",AFRICA: TV7 Colmar
-http://megatv.me:5890/live/rahma/12345/142991.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: ZIG -Senegal
-http://megatv.me:5890/live/rahma/12345/142992.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/536baf6dc4ec3b21b06a12d652ee221a.png" group-title="AFRICA",AFRICA: Ivoire Channel
-http://megatv.me:5890/live/rahma/12345/142993.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/55593b02b0747221640a16bee9462750.jpg" group-title="AFRICA",AFRICA: A12 TV
-http://megatv.me:5890/live/rahma/12345/142994.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Malikiatv (SN)
-http://megatv.me:5890/live/rahma/12345/142995.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/55082d14530032bf0f979e7eb45db602.JPG" group-title="AFRICA",AFRICA: Trace Mziki
-http://megatv.me:5890/live/rahma/12345/142996.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d9bbb5e921b5553fe76faa6f7303685b.png" group-title="AFRICA",AFRICA: Trace Toca
-http://megatv.me:5890/live/rahma/12345/142997.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Ouest Tv -Senegal
-http://megatv.me:5890/live/rahma/12345/142998.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/11b8fe538a13673d80d11e0b5f010ad3.png" group-title="AFRICA",AFRICA: Al Jazeera
-http://megatv.me:5890/live/rahma/12345/142999.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/df7fc7d690a046bcb358a8f083615116.jpg" group-title="AFRICA",AFRICA: RTI 2
-http://megatv.me:5890/live/rahma/12345/143000.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/13b387a34d36bcc748c2b511f696d339.jpg" group-title="AFRICA",AFRICA: Mouride tv
-http://megatv.me:5890/live/rahma/12345/143001.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/54d45f7a16e55da0f6393e661bf4739e.jpg" group-title="AFRICA",AFRICA: Vision 4 TV
-http://megatv.me:5890/live/rahma/12345/143002.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ccadef496d37734ab851a85c1c1fddf8.jpg" group-title="AFRICA",AFRICA: Kalsan TV Somali
-http://megatv.me:5890/live/rahma/12345/143003.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f3e0841e63055a7bde7f1842c4f2a0ee.jpg" group-title="AFRICA",AFRICA: Tv Francophonie 24
-http://megatv.me:5890/live/rahma/12345/143004.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2487aabbb1b79f62cd2881aafd83d2ca.jpg" group-title="AFRICA",AFRICA: A2i TV Religion -Senegal
-http://megatv.me:5890/live/rahma/12345/143005.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1407363e58f0c11b249afd89f053bbbf.jpg" group-title="AFRICA",AFRICA: A2ITV -Senegal
-http://megatv.me:5890/live/rahma/12345/143006.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/401096c38c91e53728a239be99f3235e.jpg" group-title="AFRICA",AFRICA: Mourchid TV -Senegal
-http://megatv.me:5890/live/rahma/12345/143007.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/38003aa11a091ff1ed62d561191baa09.jpg" group-title="AFRICA",AFRICA: Faso
-http://megatv.me:5890/live/rahma/12345/143008.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a02006c684f9092bd2d4f433db7960aa.jpg" group-title="AFRICA",AFRICA: RTS 1 -Senegal
-http://megatv.me:5890/live/rahma/12345/143009.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/59a46a08519c4be2dddb5723a4c3084f.jpg" group-title="AFRICA",AFRICA: RTS 2 -Senegal
-http://megatv.me:5890/live/rahma/12345/143010.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fc536f72ca29c2c9a29064e52023a452.jpg" group-title="AFRICA",AFRICA: Walf -Senegal
-http://megatv.me:5890/live/rahma/12345/143011.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/30e3f1461ee82a9f546d4563f0f3055f.jpg" group-title="AFRICA",AFRICA: KTV -Senegal
-http://megatv.me:5890/live/rahma/12345/143012.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2f9908ff3ced13b4520b6bd90568ec0d.jpg" group-title="AFRICA",AFRICA: MTV HD
-http://megatv.me:5890/live/rahma/12345/143013.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/3c8a9429d2fb1af63362742eb9e9d340.jpg" group-title="AFRICA",AFRICA: Chabiba TV -Senegal
-http://megatv.me:5890/live/rahma/12345/143014.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d6c25f68fa07e6881c8651a31efa584d.jpg" group-title="AFRICA",AFRICA: Sen TV -Senegal
-http://megatv.me:5890/live/rahma/12345/143015.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1ebf70fc5030a379c7bf4853da3c570d.JPG" group-title="AFRICA",AFRICA: ORTM  -Mali
-http://megatv.me:5890/live/rahma/12345/143016.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: bantamba
-http://megatv.me:5890/live/rahma/12345/143017.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/74006a8cd7f2165cf2d56e810fe0e172.jpg" group-title="AFRICA",AFRICA: Obosso TV -Congo
-http://megatv.me:5890/live/rahma/12345/143018.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2491209bd5c1c743a19f38ef429abba2.jpg" group-title="AFRICA",AFRICA: Cis TV -Congo
-http://megatv.me:5890/live/rahma/12345/143019.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6cbbf4ccc247e252885afa93d82814ff.jpg" group-title="AFRICA",AFRICA: Tele Congo -Congo
-http://megatv.me:5890/live/rahma/12345/143020.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2bb9f4c112136f4ec136fb7a44240d80.jpg" group-title="AFRICA",AFRICA: VOX Afrique
-http://megatv.me:5890/live/rahma/12345/143021.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Bichri TV -Senegal
-http://megatv.me:5890/live/rahma/12345/143022.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/390d61695b883994b38b6181bbdda740.jpg" group-title="AFRICA",AFRICA: CGTN Africa -Cameron
-http://megatv.me:5890/live/rahma/12345/143023.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4edc5f2522bb2620e8f11fe7c6c5fd57.jpg" group-title="AFRICA",AFRICA: CGTN English -Cameron
-http://megatv.me:5890/live/rahma/12345/143024.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/962b8167c1690d09d58bb11f9ecb7dd2.jpg" group-title="AFRICA",AFRICA: CGTN France -Cameron
-http://megatv.me:5890/live/rahma/12345/143025.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/56ccc500f27145fb60b5f662a96f0424.jpg" group-title="AFRICA",AFRICA: My TV Channel -Cameron
-http://megatv.me:5890/live/rahma/12345/143026.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Ctv Afrique
-http://megatv.me:5890/live/rahma/12345/143027.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/bfb5f17b29fac5ec43041bd3c02a762f.JPG" group-title="AFRICA",AFRICA: Espace TV -Cameron
-http://megatv.me:5890/live/rahma/12345/143028.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1ff1775805641b3941d98d7dba1cb515.jpg" group-title="AFRICA",AFRICA: Impac TV -Cameron
-http://megatv.me:5890/live/rahma/12345/143029.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2ac618421b1118c68687c189323f9b31.png" group-title="AFRICA",AFRICA: Sun Plus TV -Cameron
-http://megatv.me:5890/live/rahma/12345/143030.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d85c9968902dbe94447788de841285a9.jpg" group-title="AFRICA",AFRICA: Studio 1 TV -Ghana
-http://megatv.me:5890/live/rahma/12345/143031.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7b981efd34fe095021b9a3415d52f41f.jpg" group-title="AFRICA",AFRICA: 3ABN Francais -Ghana
-http://megatv.me:5890/live/rahma/12345/143032.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a4a878d1638eab40456b316be6e33a6d.jpg" group-title="AFRICA",AFRICA: 3ABN International -Ghana
-http://megatv.me:5890/live/rahma/12345/143033.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7f362a3befaaed4f8f0651a3464bec72.jpg" group-title="AFRICA",AFRICA: 3ABN Kids -Ghana
-http://megatv.me:5890/live/rahma/12345/143034.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: JOY NEWS -Ghana
-http://megatv.me:5890/live/rahma/12345/143035.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/889d096531514261fd1d55b66d0d24fd.JPG" group-title="AFRICA",AFRICA: Hope Africa -Ghana
-http://megatv.me:5890/live/rahma/12345/143036.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: RoK TV
-http://megatv.me:5890/live/rahma/12345/143037.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6b5e725c665a2476c80fa1048955aa89.jpg" group-title="AFRICA",AFRICA: RTV -Ghana
-http://megatv.me:5890/live/rahma/12345/143038.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4330284f740e097f9d3476935bdfb650.jpg" group-title="AFRICA",AFRICA: ANN -Senegal
-http://megatv.me:5890/live/rahma/12345/143039.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/62e6aebaeecc64dc7f84a491036f9342.jpg" group-title="AFRICA",AFRICA: EMCI TV -Nigeria
-http://megatv.me:5890/live/rahma/12345/143040.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/791787ed14f90d0a9654a69b33f33475.jpg" group-title="AFRICA",AFRICA: Hope Africa -Nigeria
-http://megatv.me:5890/live/rahma/12345/143041.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: RDV (SN)
-http://megatv.me:5890/live/rahma/12345/143042.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/59679ab2a314c36d8bfeee7da7914e84.JPG" group-title="AFRICA",AFRICA: Spydar TV Network -Nigeria
-http://megatv.me:5890/live/rahma/12345/143043.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e482f3c212c0c5f34d73ce6d6f05ca23.JPG" group-title="AFRICA",AFRICA: TV Continental -Nigeria
-http://megatv.me:5890/live/rahma/12345/143044.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d20a5c1ef04f9685812a583f3b9e8566.jpg" group-title="AFRICA",AFRICA: Biafra -Nigeria
-http://megatv.me:5890/live/rahma/12345/143045.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ae262207d749d6eb9edb601bdb449b41.jpg" group-title="AFRICA",AFRICA: Hadi TV2
-http://megatv.me:5890/live/rahma/12345/143046.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: 7TV (SN)
-http://megatv.me:5890/live/rahma/12345/143047.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b8afa92a7171f23b91633e376611e7ed.jpg" group-title="AFRICA",AFRICA: Dunamis TV -Nigeria
-http://megatv.me:5890/live/rahma/12345/143048.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: EBRU AFRICA -Nigeria
-http://megatv.me:5890/live/rahma/12345/143049.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4a4630040e8a01c70a2fbc2fc0d0a167.jpg" group-title="AFRICA",AFRICA: Nollywood -Nigeria
-http://megatv.me:5890/live/rahma/12345/143050.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f24aaef8c07b87ae685d8973d8b774bd.jpg" group-title="AFRICA",AFRICA: TVC News Live -Nigeria
-http://megatv.me:5890/live/rahma/12345/143051.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/22bfcd1aeef0f9e7bc8a59eb2b22ee29.jpg" group-title="AFRICA",AFRICA: Nollywood [ Fr ] -Nigeria
-http://megatv.me:5890/live/rahma/12345/143052.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/5582022fd3631a32b9a6be9d36c3a2f1.jpg" group-title="AFRICA",AFRICA: KBC TV -Kenya
-http://megatv.me:5890/live/rahma/12345/143053.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/694844c2bfde4819710209aac0b8296d.jpg" group-title="AFRICA",AFRICA: Kajou TV -Kenya
-http://megatv.me:5890/live/rahma/12345/143054.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0d93633d5105e8ec1b030cd5f3386417.png" group-title="AFRICA",AFRICA: Inooro TV -Kenya
-http://megatv.me:5890/live/rahma/12345/143055.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0e629bc9632c1a5994e4592f8a3bdb87.jpg" group-title="AFRICA",AFRICA: Kwanza -Kenya
-http://megatv.me:5890/live/rahma/12345/143056.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/983dc4310cb6b530f0f3843df938cfd9.jpg" group-title="AFRICA",AFRICA: Faith World TV -Etopia
-http://megatv.me:5890/live/rahma/12345/143057.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fc536f72ca29c2c9a29064e52023a452.jpg" group-title="AFRICA",AFRICA: Tv Mocambique -Mozambique
-http://megatv.me:5890/live/rahma/12345/143058.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e3e3f84b51a111eef628a22cd9acb858.jpg" group-title="AFRICA",AFRICA: TVM1 -Mozambique
-http://megatv.me:5890/live/rahma/12345/143059.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/643e6e00702398efc5f3544a8e03519b.jpg" group-title="AFRICA",AFRICA: Love World TV -South Africa
-http://megatv.me:5890/live/rahma/12345/143060.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Louga Tv -Senegal
-http://megatv.me:5890/live/rahma/12345/143061.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Touba Tv
-http://megatv.me:5890/live/rahma/12345/143062.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: D5 Music -Senegal
-http://megatv.me:5890/live/rahma/12345/143063.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Africa Gospel TV -Senegal
-http://megatv.me:5890/live/rahma/12345/143064.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Asfiyahi Tv senegal
-http://megatv.me:5890/live/rahma/12345/143065.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: NCI  (CI)
-http://megatv.me:5890/live/rahma/12345/143066.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: energy 100fm namibia
-http://megatv.me:5890/live/rahma/12345/143067.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: amaze tv sierra leone
-http://megatv.me:5890/live/rahma/12345/143068.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: MY MUSIC AFRICA HD
-http://megatv.me:5890/live/rahma/12345/143069.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Al Magharibia  Algeria
-http://megatv.me:5890/live/rahma/12345/143070.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: AYV
-http://megatv.me:5890/live/rahma/12345/143071.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Delice TV -Senegal
-http://megatv.me:5890/live/rahma/12345/143072.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: BFM Grand Lille
-http://megatv.me:5890/live/rahma/12345/143073.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Rtb
-http://megatv.me:5890/live/rahma/12345/143074.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: EVASION
-http://megatv.me:5890/live/rahma/12345/143075.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Evandis Gospel TV
-http://megatv.me:5890/live/rahma/12345/143076.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Redemption TV Ministry
-http://megatv.me:5890/live/rahma/12345/143077.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: Kingdom Sat channel
-http://megatv.me:5890/live/rahma/12345/143078.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: NRB TV
-http://megatv.me:5890/live/rahma/12345/143079.m3u8
-#EXTINF:-1 group-title="AFRICA",AFRICA: SEN TV (SN)
-http://megatv.me:5890/live/rahma/12345/143080.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/802a828a8b8f4a4e789ed21eddcd8e2a.jpg" group-title="AFRICA",AFRICA: Arise News -Ethiopia
-http://megatv.me:5890/live/rahma/12345/143081.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/5486de04d1bde8fcbb6230bf91e45b17.JPG" group-title="AFRICA",AFRICA: ORTB -Benin
-http://megatv.me:5890/live/rahma/12345/143082.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT GRANDSTAND HD
-http://megatv.me:5890/live/rahma/12345/88361.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT MAXCIMO 1 HD
-http://megatv.me:5890/live/rahma/12345/88357.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT FOOTBALL HD
-http://megatv.me:5890/live/rahma/12345/88365.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT CRICKET HD
-http://megatv.me:5890/live/rahma/12345/88358.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT ACTION HD
-http://megatv.me:5890/live/rahma/12345/88363.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT RUGBY HD
-http://megatv.me:5890/live/rahma/12345/88355.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT GOLF HD
-http://megatv.me:5890/live/rahma/12345/88356.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT TINES HD
-http://megatv.me:5890/live/rahma/12345/94730.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT MOTORSPORT HD
-http://megatv.me:5890/live/rahma/12345/94019.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 1 HD
-http://megatv.me:5890/live/rahma/12345/88364.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 2 HD
-http://megatv.me:5890/live/rahma/12345/88362.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 3 HD
-http://megatv.me:5890/live/rahma/12345/94731.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT VARIETY 4 HD
-http://megatv.me:5890/live/rahma/12345/94732.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT BLITZ HD
-http://megatv.me:5890/live/rahma/12345/88366.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT LALIGA HD
-http://megatv.me:5890/live/rahma/12345/88354.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT PSL HD
-http://megatv.me:5890/live/rahma/12345/88359.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT WWE HD
-http://megatv.me:5890/live/rahma/12345/94733.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",ZA: SUPERSPORT PREMIER LEAGUE HD
-http://megatv.me:5890/live/rahma/12345/88360.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7731ddf2b52985e5d3eee8c486b659fe.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Ginx eSports TV
-http://megatv.me:5890/live/rahma/12345/142776.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/309652db3091d04420b25b91c77ccdc8.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Blitz
-http://megatv.me:5890/live/rahma/12345/142777.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Grand Stand
-http://megatv.me:5890/live/rahma/12345/142778.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8aa40f31d2eae68b478b127ca9de3172.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports PSL 1
-http://megatv.me:5890/live/rahma/12345/142779.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Premier League
-http://megatv.me:5890/live/rahma/12345/142780.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports La Liga
-http://megatv.me:5890/live/rahma/12345/142781.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Football 4
-http://megatv.me:5890/live/rahma/12345/142782.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 1
-http://megatv.me:5890/live/rahma/12345/142783.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 2
-http://megatv.me:5890/live/rahma/12345/142784.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 3
-http://megatv.me:5890/live/rahma/12345/142785.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/08caa5f7da16a73265ee82b38ce1d6c5.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Variety 4
-http://megatv.me:5890/live/rahma/12345/142786.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Action
-http://megatv.me:5890/live/rahma/12345/142787.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Rugby
-http://megatv.me:5890/live/rahma/12345/142788.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Cricket
-http://megatv.me:5890/live/rahma/12345/142789.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/98f114d363a02282e63261dbebe596ae.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Golf
-http://megatv.me:5890/live/rahma/12345/142790.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ab570959783f998235df4628a6c57a35.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports Tennis
-http://megatv.me:5890/live/rahma/12345/142791.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports MotorSports
-http://megatv.me:5890/live/rahma/12345/142792.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: ESPN 1
-http://megatv.me:5890/live/rahma/12345/142793.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: ESPN 2
-http://megatv.me:5890/live/rahma/12345/142794.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7ba5fa833ff6690e3862e62ec7b76dcb.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SuperSport Maximo 1
-http://megatv.me:5890/live/rahma/12345/142795.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/26439e65592a2d37a1840281cae89e39.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sport Play
-http://megatv.me:5890/live/rahma/12345/142796.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/70212358c7f709bd20407ce657249a82.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: WWE Channel
-http://megatv.me:5890/live/rahma/12345/142797.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/3347fe0df52480201ca78bae55e90de9.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TellyTrack
-http://megatv.me:5890/live/rahma/12345/142798.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 1 HD
-http://megatv.me:5890/live/rahma/12345/142799.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 2 HD
-http://megatv.me:5890/live/rahma/12345/142800.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 3 HD
-http://megatv.me:5890/live/rahma/12345/142801.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 4
-http://megatv.me:5890/live/rahma/12345/142802.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/072ca7b4d6e8549866af9c7a10c3afe2.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 5
-http://megatv.me:5890/live/rahma/12345/142803.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 6 HD
-http://megatv.me:5890/live/rahma/12345/142804.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 7 HD
-http://megatv.me:5890/live/rahma/12345/142805.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Super Sports OTT 8 HD
-http://megatv.me:5890/live/rahma/12345/142806.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: News ✦●✦
-http://megatv.me:5890/live/rahma/12345/142807.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9457565346900b83c9b497b8b84458a5.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC World News
-http://megatv.me:5890/live/rahma/12345/142808.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/51e674b9c56bd2921ffd956eb21492ac.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CNN International
-http://megatv.me:5890/live/rahma/12345/142809.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1a59414bd71ec5c9d21bb192391dd55e.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Sky News
-http://megatv.me:5890/live/rahma/12345/142810.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0a662098953c78c51a1058dc2115b838.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eNCA
-http://megatv.me:5890/live/rahma/12345/142811.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e0ec6440874919275a358fbbf7416f46.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC News
-http://megatv.me:5890/live/rahma/12345/142812.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/059d0340058bce64bea3c190c782939e.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Newzroom Afrika
-http://megatv.me:5890/live/rahma/12345/142813.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c1016ff64ec8934a970772c806d91797.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Al Jazeera
-http://megatv.me:5890/live/rahma/12345/142814.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d15250eb52d3adcc2a579eddf6777fce.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Russia Today
-http://megatv.me:5890/live/rahma/12345/142815.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/3000802cff2b83cc0c9c3cf200396c32.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Parliamentary Service
-http://megatv.me:5890/live/rahma/12345/142816.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6528e7622c1ca0fd87de868fcb547169.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CGTN News
-http://megatv.me:5890/live/rahma/12345/142817.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/46863c0b5c87af5167fe9429583690f1.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CNBC Africa
-http://megatv.me:5890/live/rahma/12345/142818.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ddd5fd41362fe24e8321660f2929ec11.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Bloomberg News
-http://megatv.me:5890/live/rahma/12345/142819.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2abb62e5cf0fe225ab106d79b41ba68d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Business Day TV
-http://megatv.me:5890/live/rahma/12345/142820.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b7a006550af51dfdd78e0cb4e87dd81a.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: NDTV 24X7
-http://megatv.me:5890/live/rahma/12345/142821.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/307d7c906b9feb59a6d4062b4bf1557a.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: EuroNews HD
-http://megatv.me:5890/live/rahma/12345/142822.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f75b0f4c6c742c18957eda43a88838c3.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa News
-http://megatv.me:5890/live/rahma/12345/142823.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7748ece81990385c05339735ea79593d.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: NHK News
-http://megatv.me:5890/live/rahma/12345/142824.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Deutsche Welle
-http://megatv.me:5890/live/rahma/12345/142825.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Kids ✦●✦
-http://megatv.me:5890/live/rahma/12345/142826.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9c0a0fcdefec4740178730f1e37aa7f1.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Cartoon Network HD
-http://megatv.me:5890/live/rahma/12345/142827.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1e6c80d4f771a70ca207fba92e225ac5.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Boomerang HD
-http://megatv.me:5890/live/rahma/12345/142828.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0237aea03ef924f486fae0da496a0c6f.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Disney Channel HD
-http://megatv.me:5890/live/rahma/12345/142829.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/5345114efe3d68f8e6b121985b83d473.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Disney Junior HD
-http://megatv.me:5890/live/rahma/12345/142830.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0c61d037db1e3d58141db8a8309a8e68.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nickelodeon HD
-http://megatv.me:5890/live/rahma/12345/142831.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/05c50a1d4482a11b8203938c24b3bbdf.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: NickToons HD
-http://megatv.me:5890/live/rahma/12345/142832.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/20859ca7d78901ac78dfbde700623896.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nick Jr. HD
-http://megatv.me:5890/live/rahma/12345/142833.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/bb036be32778f47f70966273ebcbd5d4.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Cbeebies
-http://megatv.me:5890/live/rahma/12345/142834.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/200a6f6455e369991e72fff1843235e5.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: JimJam
-http://megatv.me:5890/live/rahma/12345/142835.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/28883ff48adcee161e6f0ed89758725b.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eToonz
-http://megatv.me:5890/live/rahma/12345/142836.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/485148e3d18913ff1c0769485df60df2.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: PBS Kids
-http://megatv.me:5890/live/rahma/12345/142837.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0b2f3064a85ab4e807b6176b9a819ec6.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Da Vinci
-http://megatv.me:5890/live/rahma/12345/142838.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6ebc9616f4cc782838c1aaa9cce99522.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mindset
-http://megatv.me:5890/live/rahma/12345/142839.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Documentary ✦●✦
-http://megatv.me:5890/live/rahma/12345/142840.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6f735e41550961a4b57de91897d15a49.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nat Geo HD
-http://megatv.me:5890/live/rahma/12345/142841.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d035a8b2a3add9fd9c000a4327bd0f0d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Nat Geo Wild HD
-http://megatv.me:5890/live/rahma/12345/142842.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/0fab07dfd04593ff977009ef4a4f8f20.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: History HD
-http://megatv.me:5890/live/rahma/12345/142843.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fa5c442c54c296fae0507a1c210893e6.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Discovery Channel HD
-http://megatv.me:5890/live/rahma/12345/142844.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/94ecbb43bf8ada156f8f5bbb0cea79cd.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Discovery Family HD
-http://megatv.me:5890/live/rahma/12345/142845.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ac53e77c8d63ff426498604bff8c89bc.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Investigation Discovery HD
-http://megatv.me:5890/live/rahma/12345/142846.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Wild Earth
-http://megatv.me:5890/live/rahma/12345/142847.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/928d7ac549a8f0e5742b3f19acc0b416.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC Earth HD
-http://megatv.me:5890/live/rahma/12345/142848.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d92a54f2dd3fb13a095a4be56cce97ee.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CBS Justice HD
-http://megatv.me:5890/live/rahma/12345/142849.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: People’s Weather
-http://megatv.me:5890/live/rahma/12345/142850.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8c385e31b43507c28a2110d6c3877033.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Curiosity Stream HD
-http://megatv.me:5890/live/rahma/12345/142851.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a5ec3d8e6711f7817313c12799e2188e.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Ignition
-http://megatv.me:5890/live/rahma/12345/142852.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Lifestyle & Culture ✦●✦
-http://megatv.me:5890/live/rahma/12345/142853.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a9ff5a95e34e1ff1dbb638813fc49f92.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: E! Entertainment HD
-http://megatv.me:5890/live/rahma/12345/142854.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: VIA
-http://megatv.me:5890/live/rahma/12345/142855.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Honey
-http://megatv.me:5890/live/rahma/12345/142856.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/448b9016941ce49a0ccdb0a7e3847046.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC Life Style
-http://megatv.me:5890/live/rahma/12345/142857.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8bf989599955022d30331c6d0685d573.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Food Network HD
-http://megatv.me:5890/live/rahma/12345/142858.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/52cd06a0600b832340c60962680c4bb0.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: The Home Channel
-http://megatv.me:5890/live/rahma/12345/142859.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e36cb5481f5224eef68427f5164330e5.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: HGTV
-http://megatv.me:5890/live/rahma/12345/142860.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9f95a597a1a026bd23597a16293ae884.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Travel Channel HD
-http://megatv.me:5890/live/rahma/12345/142861.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/aeaf61b0dc31694538118924bcdfcd53.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Spice TV
-http://megatv.me:5890/live/rahma/12345/142862.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Religion ✦●✦
-http://megatv.me:5890/live/rahma/12345/142863.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6a86337a40e49b356f674d798022f251.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Dumisa
-http://megatv.me:5890/live/rahma/12345/142864.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7b1c9fd5c90996fa20091b84223ab973.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Faith
-http://megatv.me:5890/live/rahma/12345/142865.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/490b2479d23707adc5d47cb423788bc7.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Day Star
-http://megatv.me:5890/live/rahma/12345/142866.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e32b4d753359f698cfddbb9baf923421.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TBN Africa
-http://megatv.me:5890/live/rahma/12345/142867.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/cdf69bd9ac91bc38750d4463d65041bf.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: iTV Networks
-http://megatv.me:5890/live/rahma/12345/142868.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6608c76b38ad54818ca47f671ba950b5.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Emmanuel TV
-http://megatv.me:5890/live/rahma/12345/142869.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Entertaintment ✦●✦
-http://megatv.me:5890/live/rahma/12345/142870.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fb851d14d1cfbe45f7978085e8507aa6.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net
-http://megatv.me:5890/live/rahma/12345/142871.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 1 HD
-http://megatv.me:5890/live/rahma/12345/142872.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 2 HD
-http://megatv.me:5890/live/rahma/12345/142873.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 3 HD
-http://megatv.me:5890/live/rahma/12345/142874.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net Movies 4 HD
-http://megatv.me:5890/live/rahma/12345/142875.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net East
-http://megatv.me:5890/live/rahma/12345/142876.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net West
-http://megatv.me:5890/live/rahma/12345/142877.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e3e0b75f08c27774b8ae77003c9d19fa.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Studio Universal
-http://megatv.me:5890/live/rahma/12345/142878.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: KIX
-http://megatv.me:5890/live/rahma/12345/142879.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Me
-http://megatv.me:5890/live/rahma/12345/142880.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/18f56fc2eb6d50c54c91fca062e371d1.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Universal TV HD
-http://megatv.me:5890/live/rahma/12345/142881.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/36bcfa19596969922b9457686fc9a4d7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Telemundo
-http://megatv.me:5890/live/rahma/12345/142882.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/285b92cfe0eb3498cf6eec89ec901d4e.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BBC Brit
-http://megatv.me:5890/live/rahma/12345/142883.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/53720e2b6d9d07ca3652e9ef52820321.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: BET
-http://megatv.me:5890/live/rahma/12345/142884.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/64d4e88620f7ed99008b56c68a5e70e7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: 1 Magic
-http://megatv.me:5890/live/rahma/12345/142885.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ae58a72e00153346bc38221ba3087b15.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Lifetime
-http://megatv.me:5890/live/rahma/12345/142886.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/5ae0c6ba097f01b88586995db291736b.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CBS Reality HD
-http://megatv.me:5890/live/rahma/12345/142887.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TLNovelas
-http://megatv.me:5890/live/rahma/12345/142888.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ad30b9992a835f5516b617f2f4c5767d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TLC HD
-http://megatv.me:5890/live/rahma/12345/142889.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4f7b7297c8659505b5aae8e35cfc8a04.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eMovies
-http://megatv.me:5890/live/rahma/12345/142890.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/dce76d76daeea175fb80ea03e4739c24.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: eMovies Extra
-http://megatv.me:5890/live/rahma/12345/142891.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d10d26f6c1f769d4d7f5537177a16023.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Comedy Central HD
-http://megatv.me:5890/live/rahma/12345/142892.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c7a89ae8674c90f0347498e404030190.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TNT Africa
-http://megatv.me:5890/live/rahma/12345/142893.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/73110bdbbe54c81a05d700682596bf57.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: kyk NET
-http://megatv.me:5890/live/rahma/12345/142894.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/dc55c714798e63f1f72961d0ca21b47b.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: kyk NET & Kie
-http://megatv.me:5890/live/rahma/12345/142895.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a69c9f97d008c80bc362edd06f37717d.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Epic
-http://megatv.me:5890/live/rahma/12345/142896.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/928f3d7a4fc244bb8f25cef54b8fd6d1.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Urban
-http://megatv.me:5890/live/rahma/12345/142897.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic lgbo
-http://megatv.me:5890/live/rahma/12345/142898.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Maisha Magic Movies HD
-http://megatv.me:5890/live/rahma/12345/142899.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Showcase
-http://megatv.me:5890/live/rahma/12345/142900.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/a6c0d7bf5b98eec86f1564085150c8d7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Family
-http://megatv.me:5890/live/rahma/12345/142901.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Africa Magic Yoruba
-http://megatv.me:5890/live/rahma/12345/142902.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mzansi Magic HD
-http://megatv.me:5890/live/rahma/12345/142903.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d5e27bef1bfbc2e48807bbd6f200d008.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mzansi Bioskop
-http://megatv.me:5890/live/rahma/12345/142904.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Novela Magic
-http://megatv.me:5890/live/rahma/12345/142905.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/96badd4f57ad06251b0670d34edcae1d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Zee World
-http://megatv.me:5890/live/rahma/12345/142906.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ba4899e2e2b9fbf563442d89b0b603e4.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Star Life
-http://megatv.me:5890/live/rahma/12345/142907.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/cc015b0648d48ef5c14a315e856ea0f6.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: ROK
-http://megatv.me:5890/live/rahma/12345/142908.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/db134030f38b7ad82c2098f79c4ed4d3.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC 1
-http://megatv.me:5890/live/rahma/12345/142909.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/11e09f6c5d139a15150c67eca48bae90.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC 2
-http://megatv.me:5890/live/rahma/12345/142910.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/55920924f3f2ebeba4cc392d106d6732.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: SABC 3
-http://megatv.me:5890/live/rahma/12345/142911.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/13761e6f2f56e172bee3fdc6547a8050.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: E.TV
-http://megatv.me:5890/live/rahma/12345/142912.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d43017b9d998392412e9dd38dccf877f.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: E.TV Extra
-http://megatv.me:5890/live/rahma/12345/142913.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Big Brother Naija
-http://megatv.me:5890/live/rahma/12345/142914.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Big Brother Mzansi
-http://megatv.me:5890/live/rahma/12345/142915.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fa24bf493a97634d8c7723bf5bed5f04.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Soweto TV
-http://megatv.me:5890/live/rahma/12345/142916.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mpuma Kapa TV
-http://megatv.me:5890/live/rahma/12345/142917.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/542319e31a1dec12a84c9bcf2d733660.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: 1 KZN
-http://megatv.me:5890/live/rahma/12345/142918.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/47e65437810a604b095a4fe78c396940.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Tshwane TV
-http://megatv.me:5890/live/rahma/12345/142919.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/252d3b9e1976f8c8417e71076aae2478.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Cape Town TV
-http://megatv.me:5890/live/rahma/12345/142920.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/22e346d804fa1823773eafc5fad4fa09.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Gau TV
-http://megatv.me:5890/live/rahma/12345/142921.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b6ebbc2681616cf402ac91e27300a1d7.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Lesotho TV
-http://megatv.me:5890/live/rahma/12345/142922.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c88ee4348587beb6a31d0762b0f79ca7.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: RAI Italia
-http://megatv.me:5890/live/rahma/12345/142923.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/30eac9e5a08779ef45dd2ab09c9630ed.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: RTP Internacional
-http://megatv.me:5890/live/rahma/12345/142924.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2e1bc0a8b1f1c3be418f4dc8aa7bed52.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: TV5 Monde Afrique
-http://megatv.me:5890/live/rahma/12345/142925.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/c8f9678d5a7248abcd9ab038bc6feef8.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: CCTV 4
-http://megatv.me:5890/live/rahma/12345/142926.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f172befad37d22f952ae7d1796e04823.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Real Time
-http://megatv.me:5890/live/rahma/12345/142927.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/00a76750dd12ac309cf5bf10698a2c60.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Moja Love
-http://megatv.me:5890/live/rahma/12345/142928.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b307cd4e26328b5d9b5452cb54fdd746.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: M-Net City
-http://megatv.me:5890/live/rahma/12345/142929.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Flek Net
-http://megatv.me:5890/live/rahma/12345/142930.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Bukedde
-http://megatv.me:5890/live/rahma/12345/142931.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Boss Brothers TV
-http://megatv.me:5890/live/rahma/12345/142932.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: The Holiday Channel
-http://megatv.me:5890/live/rahma/12345/142933.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",✦●✦ Af | DSTV: Music ✦●✦
-http://megatv.me:5890/live/rahma/12345/142934.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/9cc538ff04b7d6e7a73306f27951a76a.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: kyk NET Nou!
-http://megatv.me:5890/live/rahma/12345/142935.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7414143f8d58812066c4b2c6c0dba38c.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Channel O
-http://megatv.me:5890/live/rahma/12345/142936.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/82ce94e6a9648e20a30a4b861b43566d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Mzansi Magic Music
-http://megatv.me:5890/live/rahma/12345/142937.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e64810d032e49cb6c764f4815ae186b1.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: MTV Base
-http://megatv.me:5890/live/rahma/12345/142938.m3u8
-#EXTINF:-1 group-title="AFRICA DSTV ZAMBIA",Af | DSTV: MTV Hits
-http://megatv.me:5890/live/rahma/12345/142939.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/2f9908ff3ced13b4520b6bd90568ec0d.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: MTV Music HD
-http://megatv.me:5890/live/rahma/12345/142940.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4c608e4aaaac0921826dce30f027adbb.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Trace Africa
-http://megatv.me:5890/live/rahma/12345/142941.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/fe5c184caded9a83debba01655f7cfac.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Trace Gospel
-http://megatv.me:5890/live/rahma/12345/142942.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6b7ca22ced58291bcb3885913a656827.JPG" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Trace Urban
-http://megatv.me:5890/live/rahma/12345/142943.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/f3b33b83b6c9329b0af5a8802ae863ec.png" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: Sound City
-http://megatv.me:5890/live/rahma/12345/142944.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4abbf7031391fd2086be5053a22e49db.jpg" group-title="AFRICA DSTV ZAMBIA",Af | DSTV: One Gospel
-http://megatv.me:5890/live/rahma/12345/142945.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Universal TV
-http://megatv.me:5890/live/rahma/12345/143083.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/58f149f2a8d2f4bf5d55b4d9f18a217c.JPG" group-title="AFRICA SOMALIA",So: RTD Djibouti
-http://megatv.me:5890/live/rahma/12345/143084.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ca3701fcc00291664b58933265a4042e.png" group-title="AFRICA SOMALIA",So: Puntland TV
-http://megatv.me:5890/live/rahma/12345/143085.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Bulsho TV
-http://megatv.me:5890/live/rahma/12345/143086.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/b3266f79454a6fb95e9040c8927d0af5.jpg" group-title="AFRICA SOMALIA",So: Saab TV
-http://megatv.me:5890/live/rahma/12345/143087.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Dayax TV
-http://megatv.me:5890/live/rahma/12345/143088.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/180ef1e5961957a98d2dc5cac323fcf6.png" group-title="AFRICA SOMALIA",So: SNTV News 1 [ Somali National TV ]
-http://megatv.me:5890/live/rahma/12345/143089.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: SNTV 2
-http://megatv.me:5890/live/rahma/12345/143090.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: STN TV
-http://megatv.me:5890/live/rahma/12345/143091.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: STN 5
-http://megatv.me:5890/live/rahma/12345/143092.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: RTN
-http://megatv.me:5890/live/rahma/12345/143093.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: ESTV
-http://megatv.me:5890/live/rahma/12345/143094.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: National
-http://megatv.me:5890/live/rahma/12345/143095.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: HCTV [ Horn Cable TV ]
-http://megatv.me:5890/live/rahma/12345/143096.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d736bf2d910d0be984e5f2d02fa10198.jpg" group-title="AFRICA SOMALIA",So: Somali Cable
-http://megatv.me:5890/live/rahma/12345/143097.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Somali Land [ SLNTV ]
-http://megatv.me:5890/live/rahma/12345/143098.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/1f318ed00b8e12181b2a297713f63ea1.jpg" group-title="AFRICA SOMALIA",So: Jubbaland TV
-http://megatv.me:5890/live/rahma/12345/143099.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Dalka TV
-http://megatv.me:5890/live/rahma/12345/143100.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e9b78ac2f79c72abf6c6d5cc3d5c7c87.jpg" group-title="AFRICA SOMALIA",So: Galmudug TV
-http://megatv.me:5890/live/rahma/12345/143101.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Dacwa TV
-http://megatv.me:5890/live/rahma/12345/143102.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: MM TV
-http://megatv.me:5890/live/rahma/12345/143103.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8c8a3dbcd0b6027bdb5788d476bd0869.jpg" group-title="AFRICA SOMALIA",So: PLTV
-http://megatv.me:5890/live/rahma/12345/143104.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: MA TV
-http://megatv.me:5890/live/rahma/12345/143105.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Eman
-http://megatv.me:5890/live/rahma/12345/143106.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Quran TV
-http://megatv.me:5890/live/rahma/12345/143107.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Iqraa
-http://megatv.me:5890/live/rahma/12345/143108.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: SBC TV
-http://megatv.me:5890/live/rahma/12345/143109.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Banaadir
-http://megatv.me:5890/live/rahma/12345/143110.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Heeso
-http://megatv.me:5890/live/rahma/12345/143111.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: G Banadir Live TV
-http://megatv.me:5890/live/rahma/12345/143112.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Islam Channel
-http://megatv.me:5890/live/rahma/12345/143113.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: SETV News
-http://megatv.me:5890/live/rahma/12345/143114.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Hirshabelle
-http://megatv.me:5890/live/rahma/12345/143115.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Arlaadi TV
-http://megatv.me:5890/live/rahma/12345/143116.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7ee93c2a376026945ab6964a5909dca0.jpg" group-title="AFRICA SOMALIA",So: Tchad
-http://megatv.me:5890/live/rahma/12345/143117.m3u8
-#EXTINF:-1 group-title="AFRICA SOMALIA",So: Horyaal24 TV
-http://megatv.me:5890/live/rahma/12345/143118.m3u8
-#EXTINF:-1 group-title="AFRICA",2STV AF
-http://megatv.me:5890/live/rahma/12345/124330.m3u8
-#EXTINF:-1 group-title="AFRICA",2STV Plus 1 AF
-http://megatv.me:5890/live/rahma/12345/124331.m3u8
-#EXTINF:-1 group-title="AFRICA",3ABN AF
-http://megatv.me:5890/live/rahma/12345/124332.m3u8
-#EXTINF:-1 group-title="AFRICA",3ABN Kids AF
-http://megatv.me:5890/live/rahma/12345/124333.m3u8
-#EXTINF:-1 group-title="AFRICA",ABN AF
-http://megatv.me:5890/live/rahma/12345/124334.m3u8
-#EXTINF:-1 group-title="AFRICA",ADOM TV AF
-http://megatv.me:5890/live/rahma/12345/124335.m3u8
-#EXTINF:-1 group-title="AFRICA",AF TV Mall AF
-http://megatv.me:5890/live/rahma/12345/124336.m3u8
-#EXTINF:-1 group-title="AFRICA",AIT International HD AF
-http://megatv.me:5890/live/rahma/12345/124337.m3u8
-#EXTINF:-1 group-title="AFRICA",AfriCable AF
-http://megatv.me:5890/live/rahma/12345/124338.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa 24 AF
-http://megatv.me:5890/live/rahma/12345/124339.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa 24 News TV AF
-http://megatv.me:5890/live/rahma/12345/124340.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa HD AF
-http://megatv.me:5890/live/rahma/12345/124341.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa News AF
-http://megatv.me:5890/live/rahma/12345/124342.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa News Network 7 AF
-http://megatv.me:5890/live/rahma/12345/124343.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa TV 1 AF
-http://megatv.me:5890/live/rahma/12345/124344.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa TV 2 AF
-http://megatv.me:5890/live/rahma/12345/124345.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa TV 3 AF
-http://megatv.me:5890/live/rahma/12345/124346.m3u8
-#EXTINF:-1 group-title="AFRICA",Afrique Media AF
-http://megatv.me:5890/live/rahma/12345/124347.m3u8
-#EXTINF:-1 group-title="AFRICA",Afro Music AF
-http://megatv.me:5890/live/rahma/12345/124348.m3u8
-#EXTINF:-1 group-title="AFRICA",B4U Plus AF
-http://megatv.me:5890/live/rahma/12345/124349.m3u8
-#EXTINF:-1 group-title="AFRICA",Biafra 1 TV AF
-http://megatv.me:5890/live/rahma/12345/124350.m3u8
-#EXTINF:-1 group-title="AFRICA",Biafra 3 TV AF
-http://megatv.me:5890/live/rahma/12345/124351.m3u8
-#EXTINF:-1 group-title="AFRICA",CNA TV Algeria AF
-http://megatv.me:5890/live/rahma/12345/124352.m3u8
-#EXTINF:-1 group-title="AFRICA",CRTV TV AF
-http://megatv.me:5890/live/rahma/12345/124353.m3u8
-#EXTINF:-1 group-title="AFRICA",Canal CVV International Congo-Kinshasa AF
-http://megatv.me:5890/live/rahma/12345/124354.m3u8
-#EXTINF:-1 group-title="AFRICA",Canal+ Sport 1 HD AF
-http://megatv.me:5890/live/rahma/12345/124355.m3u8
-#EXTINF:-1 group-title="AFRICA",Canal+ Sport 2 HD AF
-http://megatv.me:5890/live/rahma/12345/124356.m3u8
-#EXTINF:-1 group-title="AFRICA",Canal+ Sport AF
-http://megatv.me:5890/live/rahma/12345/124357.m3u8
-#EXTINF:-1 group-title="AFRICA",Catholic TV AF
-http://megatv.me:5890/live/rahma/12345/124358.m3u8
-#EXTINF:-1 group-title="AFRICA",Channels 24 Television AF
-http://megatv.me:5890/live/rahma/12345/124359.m3u8
-#EXTINF:-1 group-title="AFRICA",Channels TV AF
-http://megatv.me:5890/live/rahma/12345/124360.m3u8
-#EXTINF:-1 group-title="AFRICA",Channels Television Nigeria AF
-http://megatv.me:5890/live/rahma/12345/124361.m3u8
-#EXTINF:-1 group-title="AFRICA",Church Channel AF
-http://megatv.me:5890/live/rahma/12345/124362.m3u8
-#EXTINF:-1 group-title="AFRICA",Cine Plus Africa Ghana AF
-http://megatv.me:5890/live/rahma/12345/124363.m3u8
-#EXTINF:-1 group-title="AFRICA",El Bilad TV Algeria AF
-http://megatv.me:5890/live/rahma/12345/124364.m3u8
-#EXTINF:-1 group-title="AFRICA",Emmanuel TV Nigeria AF
-http://megatv.me:5890/live/rahma/12345/124365.m3u8
-#EXTINF:-1 group-title="AFRICA",Eri TV Eritrea AF
-http://megatv.me:5890/live/rahma/12345/124366.m3u8
-#EXTINF:-1 group-title="AFRICA",Faith TV AF
-http://megatv.me:5890/live/rahma/12345/124367.m3u8
-#EXTINF:-1 group-title="AFRICA",GH Canada TV AF
-http://megatv.me:5890/live/rahma/12345/124368.m3u8
-#EXTINF:-1 group-title="AFRICA",GOD TV AF
-http://megatv.me:5890/live/rahma/12345/124369.m3u8
-#EXTINF:-1 group-title="AFRICA",GTV Ghana AF
-http://megatv.me:5890/live/rahma/12345/124370.m3u8
-#EXTINF:-1 group-title="AFRICA",TVC Entertainment AF
-http://megatv.me:5890/live/rahma/12345/124371.m3u8
-#EXTINF:-1 group-title="AFRICA",Hope Channel TV AF
-http://megatv.me:5890/live/rahma/12345/124372.m3u8
-#EXTINF:-1 group-title="AFRICA",Impact TV Burkina Faso AF
-http://megatv.me:5890/live/rahma/12345/124373.m3u8
-#EXTINF:-1 group-title="AFRICA",Joy News Ghana AF
-http://megatv.me:5890/live/rahma/12345/124374.m3u8
-#EXTINF:-1 group-title="AFRICA",Jubbaland TV Somalia AF
-http://megatv.me:5890/live/rahma/12345/124375.m3u8
-#EXTINF:-1 group-title="AFRICA",Juice TV AF
-http://megatv.me:5890/live/rahma/12345/124376.m3u8
-#EXTINF:-1 group-title="AFRICA",Kalsan TV Somali AF
-http://megatv.me:5890/live/rahma/12345/124377.m3u8
-#EXTINF:-1 group-title="AFRICA",Kessben TV Ghana AF
-http://megatv.me:5890/live/rahma/12345/124378.m3u8
-#EXTINF:-1 group-title="AFRICA",Lamp Fall AF
-http://megatv.me:5890/live/rahma/12345/124379.m3u8
-#EXTINF:-1 group-title="AFRICA",Lamp Fall Plus AF
-http://megatv.me:5890/live/rahma/12345/124380.m3u8
-#EXTINF:-1 group-title="AFRICA",LoveWorldSAT South Africa AF
-http://megatv.me:5890/live/rahma/12345/124381.m3u8
-#EXTINF:-1 group-title="AFRICA",Loveworld Plus TV Nigeria AF
-http://megatv.me:5890/live/rahma/12345/124382.m3u8
-#EXTINF:-1 group-title="AFRICA",MBC 2 TV AF
-http://megatv.me:5890/live/rahma/12345/124383.m3u8
-#EXTINF:-1 group-title="AFRICA",Mourchid TV Senegal AF
-http://megatv.me:5890/live/rahma/12345/124384.m3u8
-#EXTINF:-1 group-title="AFRICA",Music TV AF
-http://megatv.me:5890/live/rahma/12345/124385.m3u8
-#EXTINF:-1 group-title="AFRICA",Music TV Africa HD AF
-http://megatv.me:5890/live/rahma/12345/124386.m3u8
-#EXTINF:-1 group-title="AFRICA",NTV Kenya AF
-http://megatv.me:5890/live/rahma/12345/124387.m3u8
-#EXTINF:-1 group-title="AFRICA",Nile Cinema TV AF
-http://megatv.me:5890/live/rahma/12345/124388.m3u8
-#EXTINF:-1 group-title="AFRICA",Nollywood French TV AF
-http://megatv.me:5890/live/rahma/12345/124389.m3u8
-#EXTINF:-1 group-title="AFRICA",Nollywood Movies AF
-http://megatv.me:5890/live/rahma/12345/124390.m3u8
-#EXTINF:-1 group-title="AFRICA",Novelas TV AF
-http://megatv.me:5890/live/rahma/12345/124391.m3u8
-#EXTINF:-1 group-title="AFRICA",Onde Africa TV AF
-http://megatv.me:5890/live/rahma/12345/124392.m3u8
-#EXTINF:-1 group-title="AFRICA",Ortm AF
-http://megatv.me:5890/live/rahma/12345/124393.m3u8
-#EXTINF:-1 group-title="AFRICA",Peace TV English AF
-http://megatv.me:5890/live/rahma/12345/124394.m3u8
-#EXTINF:-1 group-title="AFRICA",Prees News TV AF
-http://megatv.me:5890/live/rahma/12345/124395.m3u8
-#EXTINF:-1 group-title="AFRICA",RT Russia Today AF
-http://megatv.me:5890/live/rahma/12345/124396.m3u8
-#EXTINF:-1 group-title="AFRICA",RTG Guiniea AF
-http://megatv.me:5890/live/rahma/12345/124397.m3u8
-#EXTINF:-1 group-title="AFRICA",RTS 1 AF
-http://megatv.me:5890/live/rahma/12345/124398.m3u8
-#EXTINF:-1 group-title="AFRICA",RTS 1 Plus 1 AF
-http://megatv.me:5890/live/rahma/12345/124399.m3u8
-#EXTINF:-1 group-title="AFRICA",RTS 1 Plus 2 AF
-http://megatv.me:5890/live/rahma/12345/124400.m3u8
-#EXTINF:-1 group-title="AFRICA",RTS 2 AF
-http://megatv.me:5890/live/rahma/12345/124401.m3u8
-#EXTINF:-1 group-title="AFRICA",RTi 1 Cote d ivoire AF
-http://megatv.me:5890/live/rahma/12345/124402.m3u8
-#EXTINF:-1 group-title="AFRICA",RTi 2 Cote d ivoire AF
-http://megatv.me:5890/live/rahma/12345/124403.m3u8
-#EXTINF:-1 group-title="AFRICA",Rave TV Nigeria AF
-http://megatv.me:5890/live/rahma/12345/124404.m3u8
-#EXTINF:-1 group-title="AFRICA",Resurrection TV Ghana AF
-http://megatv.me:5890/live/rahma/12345/124405.m3u8
-#EXTINF:-1 group-title="AFRICA",Rwanda TV AF
-http://megatv.me:5890/live/rahma/12345/124406.m3u8
-#EXTINF:-1 group-title="AFRICA",SAT 7 Egypt AF
-http://megatv.me:5890/live/rahma/12345/124407.m3u8
-#EXTINF:-1 group-title="AFRICA",STV 2 Cameron AF
-http://megatv.me:5890/live/rahma/12345/124408.m3u8
-#EXTINF:-1 group-title="AFRICA",Salaam TV AF
-http://megatv.me:5890/live/rahma/12345/124409.m3u8
-#EXTINF:-1 group-title="AFRICA",Saudi TV AF
-http://megatv.me:5890/live/rahma/12345/124410.m3u8
-#EXTINF:-1 group-title="AFRICA",Saudi-Quran AF
-http://megatv.me:5890/live/rahma/12345/124411.m3u8
-#EXTINF:-1 group-title="AFRICA",SenTV HD AF
-http://megatv.me:5890/live/rahma/12345/124412.m3u8
-#EXTINF:-1 group-title="AFRICA",Senegal DTV AF
-http://megatv.me:5890/live/rahma/12345/124413.m3u8
-#EXTINF:-1 group-title="AFRICA",Saab Somali AF
-http://megatv.me:5890/live/rahma/12345/124414.m3u8
-#EXTINF:-1 group-title="AFRICA",Star TV Tanzania AF
-http://megatv.me:5890/live/rahma/12345/124415.m3u8
-#EXTINF:-1 group-title="AFRICA",Sud 24 SAT DSTV AF
-http://megatv.me:5890/live/rahma/12345/124416.m3u8
-#EXTINF:-1 group-title="AFRICA",SuryoyoSat AF
-http://megatv.me:5890/live/rahma/12345/124417.m3u8
-#EXTINF:-1 group-title="AFRICA",TBN TV AF
-http://megatv.me:5890/live/rahma/12345/124418.m3u8
-#EXTINF:-1 group-title="AFRICA",TFC AF
-http://megatv.me:5890/live/rahma/12345/124419.m3u8
-#EXTINF:-1 group-title="AFRICA",TFM AF
-http://megatv.me:5890/live/rahma/12345/124420.m3u8
-#EXTINF:-1 group-title="AFRICA",TFM HD AF
-http://megatv.me:5890/live/rahma/12345/124421.m3u8
-#EXTINF:-1 group-title="AFRICA",TPA Angola AF
-http://megatv.me:5890/live/rahma/12345/124422.m3u8
-#EXTINF:-1 group-title="AFRICA",TV5 Monde Afrique AF
-http://megatv.me:5890/live/rahma/12345/124423.m3u8
-#EXTINF:-1 group-title="AFRICA",TVC News Nigeria AF
-http://megatv.me:5890/live/rahma/12345/124424.m3u8
-#EXTINF:-1 group-title="AFRICA",TVContinental Nigeria AF
-http://megatv.me:5890/live/rahma/12345/124425.m3u8
-#EXTINF:-1 group-title="AFRICA",TVM 1 DSTV AF
-http://megatv.me:5890/live/rahma/12345/124426.m3u8
-#EXTINF:-1 group-title="AFRICA",TVM 1 Mozambique AF
-http://megatv.me:5890/live/rahma/12345/124427.m3u8
-#EXTINF:-1 group-title="AFRICA",TVM 2 DSTV AF
-http://megatv.me:5890/live/rahma/12345/124428.m3u8
-#EXTINF:-1 group-title="AFRICA",TVM 2 Mozambique AF
-http://megatv.me:5890/live/rahma/12345/124429.m3u8
-#EXTINF:-1 group-title="AFRICA",TVT International Togo AF
-http://megatv.me:5890/live/rahma/12345/124430.m3u8
-#EXTINF:-1 group-title="AFRICA",Tanasuh TV AF
-http://megatv.me:5890/live/rahma/12345/124431.m3u8
-#EXTINF:-1 group-title="AFRICA",Tele Congo AF
-http://megatv.me:5890/live/rahma/12345/124432.m3u8
-#EXTINF:-1 group-title="AFRICA",Tfm Regional Senegal AF
-http://megatv.me:5890/live/rahma/12345/124433.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Africa FHD AF
-http://megatv.me:5890/live/rahma/12345/124434.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Gospel HD AF
-http://megatv.me:5890/live/rahma/12345/124435.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Mizki HD AF
-http://megatv.me:5890/live/rahma/12345/124436.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Naija HD AF
-http://megatv.me:5890/live/rahma/12345/124437.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Sport Stars HD AF
-http://megatv.me:5890/live/rahma/12345/124438.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Tropical HD AF
-http://megatv.me:5890/live/rahma/12345/124439.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Urban HD AF
-http://megatv.me:5890/live/rahma/12345/124440.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Urban TV AF
-http://megatv.me:5890/live/rahma/12345/124441.m3u8
-#EXTINF:-1 group-title="AFRICA",VOX Afrique AF
-http://megatv.me:5890/live/rahma/12345/124442.m3u8
-#EXTINF:-1 group-title="AFRICA",Walf TV AF
-http://megatv.me:5890/live/rahma/12345/124443.m3u8
-#EXTINF:-1 group-title="AFRICA",Wazobia Max TV Nigeria AF
-http://megatv.me:5890/live/rahma/12345/124444.m3u8
-#EXTINF:-1 group-title="AFRICA",iFilm TV AF
-http://megatv.me:5890/live/rahma/12345/124445.m3u8
-#EXTINF:-1 group-title="AFRICA",Inooro TV AF
-http://megatv.me:5890/live/rahma/12345/124446.m3u8
-#EXTINF:-1 group-title="AFRICA",Citizen TV AF
-http://megatv.me:5890/live/rahma/12345/124447.m3u8
-#EXTINF:-1 group-title="AFRICA",K24 TV AF
-http://megatv.me:5890/live/rahma/12345/124448.m3u8
-#EXTINF:-1 group-title="AFRICA",Horn Cable TV AF
-http://megatv.me:5890/live/rahma/12345/124449.m3u8
-#EXTINF:-1 group-title="AFRICA",Somali Cable TV AF
-http://megatv.me:5890/live/rahma/12345/124450.m3u8
-#EXTINF:-1 group-title="AFRICA",Universal TV AF
-http://megatv.me:5890/live/rahma/12345/124451.m3u8
-#EXTINF:-1 group-title="AFRICA",RTD DJIBOUTI AF
-http://megatv.me:5890/live/rahma/12345/124452.m3u8
-#EXTINF:-1 group-title="AFRICA",KTN NEWS VIP AF
-http://megatv.me:5890/live/rahma/12345/124453.m3u8
-#EXTINF:-1 group-title="AFRICA",eNCA HD VIP AF
-http://megatv.me:5890/live/rahma/12345/124454.m3u8
-#EXTINF:-1 group-title="AFRICA",Somaliland TV VIP AF
-http://megatv.me:5890/live/rahma/12345/124455.m3u8
-#EXTINF:-1 group-title="AFRICA",Big Brother Naija AF
-http://megatv.me:5890/live/rahma/12345/124456.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa Magic Yoruba AF
-http://megatv.me:5890/live/rahma/12345/124457.m3u8
-#EXTINF:-1 group-title="AFRICA",Africa Magic Igbo AF
-http://megatv.me:5890/live/rahma/12345/124458.m3u8
-#EXTINF:-1 group-title="AFRICA",STV AF
-http://megatv.me:5890/live/rahma/12345/124459.m3u8
-#EXTINF:-1 group-title="AFRICA",TELE SAHEL AF
-http://megatv.me:5890/live/rahma/12345/124460.m3u8
-#EXTINF:-1 group-title="AFRICA",Trace Kitoko AF
-http://megatv.me:5890/live/rahma/12345/124461.m3u8
-#EXTINF:-1 group-title="AFRICA",Metro TV AF
-http://megatv.me:5890/live/rahma/12345/124462.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/4225bc5a20a061b9c8bcbc7850984d94.png" group-title="CANAL+ AFRICA",[AF] CANAL+ SPORT 1HD
-http://megatv.me:5890/live/rahma/12345/149051.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/8b33d3c9ccdb180ebac87681c971db25.png" group-title="CANAL+ AFRICA",[AF] CANAL+ SPORT 2HD
-http://megatv.me:5890/live/rahma/12345/149052.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/d1f633a6287160b50ac46061718d9d1d.png" group-title="CANAL+ AFRICA",[AF] CANAL+ SPORT 3HD
-http://megatv.me:5890/live/rahma/12345/149053.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/6b76b65f96b99c520cfdc8f42c59000d.png" group-title="CANAL+ AFRICA",[AF] CANAL+ SPORT 4HD
-http://megatv.me:5890/live/rahma/12345/149054.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/be6f8fc05ca81aa42ec07713d6693212.png" group-title="CANAL+ AFRICA",[AF] CANAL+ SPORT 5HD
-http://megatv.me:5890/live/rahma/12345/149055.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/7de8c3a389a05babf8c8947fb051277e.png" group-title="CANAL+ AFRICA",[AF] CANAL+ ACTION C HD
-http://megatv.me:5890/live/rahma/12345/149059.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/56bc22f9752a1567a1bd7ba573fab783.png" group-title="CANAL+ AFRICA",[AF] CANAL+ CINEMA OUEST
-http://megatv.me:5890/live/rahma/12345/149060.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/153dafced41f32b4f4764a366570ae7f.png" group-title="CANAL+ AFRICA",[AF] CANAL+ CINEMA CENTRE
-http://megatv.me:5890/live/rahma/12345/149061.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/e52eabe1cfafbf7fde8eae4372fc0338.png" group-title="CANAL+ AFRICA",[AF] CANAL+ FAMILY OUEST
-http://megatv.me:5890/live/rahma/12345/149062.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/cbada6c46b2c9eeed1875c1a3101206c.png" group-title="CANAL+ AFRICA",[AF] CANAL+ FAMILY CENTRE
-http://megatv.me:5890/live/rahma/12345/149063.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/5a0b0d43c153f95af767509aa9c5bef3.png" group-title="CANAL+ AFRICA",[AF] CANAL+ ELLES OUEST
-http://megatv.me:5890/live/rahma/12345/149064.m3u8
-#EXTINF:-1 tvg-logo="http://showflix.org:5890/images/ace45ef9dbdba938aaa31d44ce70ccb8.png" group-title="CANAL+ AFRICA",[AF] CANAL+ ELLES CENTRE
-http://megatv.me:5890/live/rahma/12345/149065.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - CANAL+ CARAIBES HD
-http://megatv.me:5890/live/rahma/12345/167687.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",[AF] Canal+ POP OUSTE
-http://megatv.me:5890/live/rahma/12345/149067.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",[AF] Canal+ Formule 1
-http://megatv.me:5890/live/rahma/12345/149068.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",[AF] Canal+ Top 14
-http://megatv.me:5890/live/rahma/12345/149069.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - VOIR+
-http://megatv.me:5890/live/rahma/12345/167837.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - LA 3
-http://megatv.me:5890/live/rahma/12345/167683.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - WATAAA TV HD
-http://megatv.me:5890/live/rahma/12345/167688.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - ZITATA TV HD
-http://megatv.me:5890/live/rahma/12345/167689.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - FUSION TV HD
-http://megatv.me:5890/live/rahma/12345/167690.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - TV GLOBO HD
-http://megatv.me:5890/live/rahma/12345/167692.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - TRACE GOSPEL HD
-http://megatv.me:5890/live/rahma/12345/167693.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - bBLACK CARIBBEAN HD
-http://megatv.me:5890/live/rahma/12345/167694.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - TRACE YITI HD
-http://megatv.me:5890/live/rahma/12345/167695.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - TRACE CARIBBEAN HD
-http://megatv.me:5890/live/rahma/12345/167696.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - ES1 HD
-http://megatv.me:5890/live/rahma/12345/167697.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - A+ HD
-http://megatv.me:5890/live/rahma/12345/167698.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - NOVELAS
-http://megatv.me:5890/live/rahma/12345/167699.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - GUYANE PREMIERE HD
-http://megatv.me:5890/live/rahma/12345/167700.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - GRAPHE TV HD
-http://megatv.me:5890/live/rahma/12345/167701.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - KMT HD
-http://megatv.me:5890/live/rahma/12345/167702.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - ZOUK TV HD
-http://megatv.me:5890/live/rahma/12345/167703.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - ATV MARTINIQUE HD
-http://megatv.me:5890/live/rahma/12345/167704.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - MARTINIQUE PREMIERE HD
-http://megatv.me:5890/live/rahma/12345/167705.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - ECLAIR TV HD
-http://megatv.me:5890/live/rahma/12345/167706.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - CANAL 10 HD
-http://megatv.me:5890/live/rahma/12345/167707.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ CAR) - GUADLOUPE PREMIERE HD
-http://megatv.me:5890/live/rahma/12345/167708.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - PACIS TV
-http://megatv.me:5890/live/rahma/12345/167709.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - BTN RWANDA
-http://megatv.me:5890/live/rahma/12345/167710.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - GENESIS TV
-http://megatv.me:5890/live/rahma/12345/167711.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - FLASH TV - RWANDA
-http://megatv.me:5890/live/rahma/12345/167712.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - AUTHENTIC TV - RWANDA
-http://megatv.me:5890/live/rahma/12345/167713.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV1 RWANDA
-http://megatv.me:5890/live/rahma/12345/167714.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - KC 2 TV
-http://megatv.me:5890/live/rahma/12345/167715.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV 10
-http://megatv.me:5890/live/rahma/12345/167716.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RWANDA TV
-http://megatv.me:5890/live/rahma/12345/167717.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTNB
-http://megatv.me:5890/live/rahma/12345/167718.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - SSM TV
-http://megatv.me:5890/live/rahma/12345/167719.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - PSTV
-http://megatv.me:5890/live/rahma/12345/167720.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - NYOTA
-http://megatv.me:5890/live/rahma/12345/167721.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - MISHAPI
-http://megatv.me:5890/live/rahma/12345/167722.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - MIKUBA TV CONGO
-http://megatv.me:5890/live/rahma/12345/167723.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - MOLIERE TV CONGO
-http://megatv.me:5890/live/rahma/12345/167724.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TELE 50 CONGO
-http://megatv.me:5890/live/rahma/12345/167725.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - DIGITAL CONGO
-http://megatv.me:5890/live/rahma/12345/167726.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ANTENNEA RDC
-http://megatv.me:5890/live/rahma/12345/167727.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - B-ONE
-http://megatv.me:5890/live/rahma/12345/167728.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTN CONGO
-http://megatv.me:5890/live/rahma/12345/167729.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - MCR TV
-http://megatv.me:5890/live/rahma/12345/167730.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - LUX TV
-http://megatv.me:5890/live/rahma/12345/167731.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CDIRECT CONGO
-http://megatv.me:5890/live/rahma/12345/167732.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - VOX TV
-http://megatv.me:5890/live/rahma/12345/167733.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - DRTV CONGO
-http://megatv.me:5890/live/rahma/12345/167734.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TELE CONGO
-http://megatv.me:5890/live/rahma/12345/167735.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - GABON CULTURE
-http://megatv.me:5890/live/rahma/12345/167736.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TELE AFRICA GABON
-http://megatv.me:5890/live/rahma/12345/167737.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - GABON TV
-http://megatv.me:5890/live/rahma/12345/167738.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TGB
-http://megatv.me:5890/live/rahma/12345/167739.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TVGE
-http://megatv.me:5890/live/rahma/12345/167740.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ASUNGA TV UGANDA
-http://megatv.me:5890/live/rahma/12345/167741.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CANAL 2 MOVIES
-http://megatv.me:5890/live/rahma/12345/167742.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - MEDIA PRIME
-http://megatv.me:5890/live/rahma/12345/167743.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - LTM
-http://megatv.me:5890/live/rahma/12345/167744.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CRTV NEWS
-http://megatv.me:5890/live/rahma/12345/167745.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CRTV SPORT
-http://megatv.me:5890/live/rahma/12345/167746.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - EQUINOXE
-http://megatv.me:5890/live/rahma/12345/167747.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - STV
-http://megatv.me:5890/live/rahma/12345/167748.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CANAL 2 INTER
-http://megatv.me:5890/live/rahma/12345/167749.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CRTV CAMEROUN
-http://megatv.me:5890/live/rahma/12345/167750.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTD DJIBOUTI
-http://megatv.me:5890/live/rahma/12345/167751.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV CENTRAFRIQUE
-http://megatv.me:5890/live/rahma/12345/167752.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - SAHARA TV
-http://megatv.me:5890/live/rahma/12345/167753.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ELECTRON TV
-http://megatv.me:5890/live/rahma/12345/167754.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV TCHAD
-http://megatv.me:5890/live/rahma/12345/167755.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - FARINWATA
-http://megatv.me:5890/live/rahma/12345/167756.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - BONFEREY
-http://megatv.me:5890/live/rahma/12345/167757.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - DOUNIA
-http://megatv.me:5890/live/rahma/12345/167758.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTN TELE SAHEL - NIGER
-http://megatv.me:5890/live/rahma/12345/167759.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - eTELE
-http://megatv.me:5890/live/rahma/12345/167760.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TVC BENINOISE
-http://megatv.me:5890/live/rahma/12345/167761.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - GOLF TV AFRICA
-http://megatv.me:5890/live/rahma/12345/167762.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CANAL 3 BENIN
-http://megatv.me:5890/live/rahma/12345/167763.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ORTB
-http://megatv.me:5890/live/rahma/12345/167764.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TLS AFRICA
-http://megatv.me:5890/live/rahma/12345/167765.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV7
-http://megatv.me:5890/live/rahma/12345/167766.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV MAURITANIE
-http://megatv.me:5890/live/rahma/12345/167767.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ASFIYAHI SENEGAL
-http://megatv.me:5890/live/rahma/12345/167768.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - DELTA TV RTDS
-http://megatv.me:5890/live/rahma/12345/167769.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV TOGO
-http://megatv.me:5890/live/rahma/12345/167770.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - OMEGA TV
-http://megatv.me:5890/live/rahma/12345/167772.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CANAL 3 BURKINABé
-http://megatv.me:5890/live/rahma/12345/167773.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - SAVANE TV
-http://megatv.me:5890/live/rahma/12345/167774.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - 3TV
-http://megatv.me:5890/live/rahma/12345/167775.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - BURKINA INFO TV
-http://megatv.me:5890/live/rahma/12345/167776.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - BFL TV
-http://megatv.me:5890/live/rahma/12345/167777.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTB
-http://megatv.me:5890/live/rahma/12345/167778.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - KALAC TV
-http://megatv.me:5890/live/rahma/12345/167779.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ESPACE TV
-http://megatv.me:5890/live/rahma/12345/167780.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CIS TV
-http://megatv.me:5890/live/rahma/12345/167781.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - EVASION TV GUINEE
-http://megatv.me:5890/live/rahma/12345/167782.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTG 2 GUINEE
-http://megatv.me:5890/live/rahma/12345/167783.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTG GUINEE
-http://megatv.me:5890/live/rahma/12345/167784.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - JOLIBA NEWS
-http://megatv.me:5890/live/rahma/12345/167785.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - MANDE TV
-http://megatv.me:5890/live/rahma/12345/167786.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - AL AFIA TV
-http://megatv.me:5890/live/rahma/12345/167787.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RENOUVEAU
-http://megatv.me:5890/live/rahma/12345/167788.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TM 1
-http://megatv.me:5890/live/rahma/12345/167789.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CHERIFLA TV
-http://megatv.me:5890/live/rahma/12345/167790.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ORTM 2
-http://megatv.me:5890/live/rahma/12345/167791.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ORTM 1
-http://megatv.me:5890/live/rahma/12345/167792.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - WALF TV
-http://megatv.me:5890/live/rahma/12345/167793.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - SEN TV
-http://megatv.me:5890/live/rahma/12345/167794.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TFM
-http://megatv.me:5890/live/rahma/12345/167795.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - 2STV
-http://megatv.me:5890/live/rahma/12345/167796.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTS
-http://megatv.me:5890/live/rahma/12345/167797.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - IVOIRE MUSIC TV
-http://megatv.me:5890/live/rahma/12345/167798.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - AL BAYANE
-http://megatv.me:5890/live/rahma/12345/167799.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - NCI
-http://megatv.me:5890/live/rahma/12345/167800.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTI 2
-http://megatv.me:5890/live/rahma/12345/167801.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - RTI 1
-http://megatv.me:5890/live/rahma/12345/167802.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - IQRAA EUROPE AFRIQUE
-http://megatv.me:5890/live/rahma/12345/167803.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - GABON 24
-http://megatv.me:5890/live/rahma/12345/167804.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - AFRICA 24
-http://megatv.me:5890/live/rahma/12345/167805.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - A+ IVOIRE
-http://megatv.me:5890/live/rahma/12345/167806.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - LOVE NATURE
-http://megatv.me:5890/live/rahma/12345/167807.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CRIME DISTRICT
-http://megatv.me:5890/live/rahma/12345/167808.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - CUISINES
-http://megatv.me:5890/live/rahma/12345/167811.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TRACE URBAN
-http://megatv.me:5890/live/rahma/12345/167812.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TRACE GOSPEL
-http://megatv.me:5890/live/rahma/12345/167815.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - BbLACK AFRICA
-http://megatv.me:5890/live/rahma/12345/167816.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TRACE AFRIKORA
-http://megatv.me:5890/live/rahma/12345/167817.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TRACE AFRICA
-http://megatv.me:5890/live/rahma/12345/167818.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - NBA
-http://megatv.me:5890/live/rahma/12345/167819.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - BANTAMBA
-http://megatv.me:5890/live/rahma/12345/167820.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - WATA
-http://megatv.me:5890/live/rahma/12345/167821.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - LUDIKIDS
-http://megatv.me:5890/live/rahma/12345/167822.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TiVi5 MONDE
-http://megatv.me:5890/live/rahma/12345/167823.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - ZEE MAGIC
-http://megatv.me:5890/live/rahma/12345/167824.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - TV 1 RWANDA
-http://megatv.me:5890/live/rahma/12345/167826.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - SUD 1ERE TV
-http://megatv.me:5890/live/rahma/12345/167827.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - AFRICABLE
-http://megatv.me:5890/live/rahma/12345/167828.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - VOX AFRICA
-http://megatv.me:5890/live/rahma/12345/167829.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - SUNUYEUF TV
-http://megatv.me:5890/live/rahma/12345/167830.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - NOVELAS TV
-http://megatv.me:5890/live/rahma/12345/167832.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - NOLLYWOOD EPIC
-http://megatv.me:5890/live/rahma/12345/167833.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - NOLLYWOOD TV
-http://megatv.me:5890/live/rahma/12345/167834.m3u8
-#EXTINF:-1 group-title="CANAL+ AFRICA",(C+ AF) - A+
-http://megatv.me:5890/live/rahma/12345/167835.m3u8
+#EXTINF:-1,ZA: Africa Magic Epic
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38521
+#EXTINF:-1,ZA: Africa Magic Family
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/59275
+#EXTINF:-1,ZA: Africa Magic Igbo
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/290389
+#EXTINF:-1,ZA: Africa Magic Showcase
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/291193
+#EXTINF:-1,ZA: Africa Magic URBAN
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193270
+#EXTINF:-1,ZA: Africa Magic Yoruba
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/290390
+#EXTINF:-1,ZA: BBC Brit
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296269
+#EXTINF:-1,ZA: BBC Earth South Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193271
+#EXTINF:-1,ZA: BBC Lifestyle
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295393
+#EXTINF:-1,ZA: BET Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/46621
+#EXTINF:-1,ZA: Boomerang
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295391
+#EXTINF:-1,ZA: Business Day TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/290393
+#EXTINF:-1,ZA: Cape Town TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38526
+#EXTINF:-1,ZA: CBS Justice
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295390
+#EXTINF:-1,ZA: CBS Reality
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/59273
+#EXTINF:-1,ZA: Channel O
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90215
+#EXTINF:-1,ZA: CNBC
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/174645
+#EXTINF:-1,ZA: Curiosity Stream
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295399
+#EXTINF:-1,ZA: Discovery Family
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193275
+#EXTINF:-1,ZA: Disney Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193277
+#EXTINF:-1,ZA: Disney Junior
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295392
+#EXTINF:-1,ZA: Dumisa TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38520
+#EXTINF:-1,ZA: E!
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295388
+#EXTINF:-1,ZA: ESPN 2 Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295317
+#EXTINF:-1,ZA: Gau TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/59282
+#EXTINF:-1,ZA: HGTV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38543
+#EXTINF:-1,ZA: History
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193280
+#EXTINF:-1,ZA: Ignition
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38552
+#EXTINF:-1,ZA: Impact TV Network
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294556
+#EXTINF:-1,ZA: Investigation Discovery
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193281
+#EXTINF:-1,ZA: KykNet
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278762
+#EXTINF:-1,ZA: KykNet & Kie
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278763
+#EXTINF:-1,ZA: KykNet Nou
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90214
+#EXTINF:-1,ZA: M-Net
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/197788
+#EXTINF:-1,ZA: M-Net Movies 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38545
+#EXTINF:-1,ZA: M-Net Movies 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146168
+#EXTINF:-1,ZA: M-Net Movies 3
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38536
+#EXTINF:-1,ZA: Mindset Learn
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146172
+#EXTINF:-1,ZA: Moja Love
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38542
+#EXTINF:-1,ZA: MTV Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/59278
+#EXTINF:-1,ZA: Mzansi Bioskop
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90219
+#EXTINF:-1,ZA: Mzansi Magic Music
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38544
+#EXTINF:-1,ZA: Mzansi Wethu
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90222
+#EXTINF:-1,ZA: NAT GEO
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193285
+#EXTINF:-1,ZA: NAT GEO Wild
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193286
+#EXTINF:-1,ZA: Newzroom Afrika
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38551
+#EXTINF:-1,ZA: Nick Junior
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/290391
+#EXTINF:-1,ZA: nickelodeon
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38548
+#EXTINF:-1,ZA: NickToons
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281534
+#EXTINF:-1,ZA: One Gospel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281532
+#EXTINF:-1,ZA: Parliamentary Service
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146965
+#EXTINF:-1,ZA: Peoples Weather
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38550
+#EXTINF:-1,ZA: Redemption TV Ministry
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166038
+#EXTINF:-1,ZA: SABC 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38564
+#EXTINF:-1,ZA: SABC 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38556
+#EXTINF:-1,ZA: SABC 3
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281528
+#EXTINF:-1,ZA: SABC News
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38566
+#EXTINF:-1,ZA: Spice
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193288
+#EXTINF:-1,ZA: Studio Universal
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193290
+#EXTINF:-1,ZA: SuperSport Action
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/194354
+#EXTINF:-1,ZA: SuperSport Blitz
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281536
+#EXTINF:-1,ZA: SuperSport Cricket
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11637
+#EXTINF:-1,ZA: SuperSport Football
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38575
+#EXTINF:-1,ZA: SuperSport Golf
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11641
+#EXTINF:-1,ZA: SuperSport Grandstand
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/194353
+#EXTINF:-1,ZA: SuperSport LaLiga
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/194358
+#EXTINF:-1,ZA: SuperSport Maximo 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38572
+#EXTINF:-1,ZA: SuperSport Motorsport
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11638
+#EXTINF:-1,ZA: SuperSport Premier League
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11642
+#EXTINF:-1,ZA: SuperSport PSL
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11643
+#EXTINF:-1,ZA: SuperSport Rugby
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11639
+#EXTINF:-1,ZA: SuperSport Tennis
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/15200
+#EXTINF:-1,ZA: SuperSport Variety 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11633
+#EXTINF:-1,ZA: SuperSport Variety 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11634
+#EXTINF:-1,ZA: SuperSport Variety 3
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11635
+#EXTINF:-1,ZA: SuperSport Variety 4
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11636
+#EXTINF:-1,ZA: TLC Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/290392
+#EXTINF:-1,ZA: TNT
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281527
+#EXTINF:-1,ZA: Travel Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146968
+#EXTINF:-1,ZA: Tshwane TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38570
+#EXTINF:-1,ZA: Universal TV Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12007
+#EXTINF:-1,ZA: WildEarth
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/286729
+#EXTINF:-1,AF: (Angola) TPA 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165152
+#EXTINF:-1,AF: (Angola) TPA International
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/9701
+#EXTINF:-1,AF: (Angola) Zap Viva
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/2067
+#EXTINF:-1,AF: (Benin) ORTB TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3676
+#EXTINF:-1,AF: (Cameroon) Afrique Media
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3655
+#EXTINF:-1,AF: (Cameroon) Canal 2 International
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90193
+#EXTINF:-1,AF: (Cameroon) CRTV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281504
+#EXTINF:-1,AF: (Cameroon) CRTV News
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3662
+#EXTINF:-1,AF: (Cameroon) CRTV Sports
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/147851
+#EXTINF:-1,AF: (Cameroon) Franceinfo TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/145505
+#EXTINF:-1,AF: (Cameroon) My Comedy
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/145496
+#EXTINF:-1,AF: (Cameroon) My TV Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90221
+#EXTINF:-1,AF: (Cameroon) Play TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165995
+#EXTINF:-1,AF: (Cameroon) Plex TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165987
+#EXTINF:-1,AF: (Cameroon) Vision 4 TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/40794
+#EXTINF:-1,AF: (Cameroon) Voxafrica
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/7561
+#EXTINF:-1,AF: (Cape Verde) TCV Internacional
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11424
+#EXTINF:-1,AF: (Chad) Tchad
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/225222
+#EXTINF:-1,AF: (Congo Brazzaville) Africanews
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3654
+#EXTINF:-1,AF: (Congo) Congo Planète TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294510
+#EXTINF:-1,AF: (Congo) Congo Planète TV2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/265330
+#EXTINF:-1,AF: (Congo) Planete TV 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284230
+#EXTINF:-1,AF: (Congo) RTNC
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11991
+#EXTINF:-1,AF: (Cote Divoire) RTI 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3671
+#EXTINF:-1,AF: (Cote Divoire) RTI 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/4307
+#EXTINF:-1,AF: (Eritrea) ERI TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/16542
+#EXTINF:-1,AF: (Ethiopia) Addis Media Network
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198596
+#EXTINF:-1,AF: (Ethiopia) Faith World TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/267798
+#EXTINF:-1,AF: (Ethiopia) Nahoo TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146186
+#EXTINF:-1,AF: (Ghana) 3ABN International
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/147912
+#EXTINF:-1,AF: (Ghana) 3ABN Kids
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/68156
+#EXTINF:-1,AF: (Ghana) Adom TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3648
+#EXTINF:-1,AF: (Ghana) Arryadia
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193821
+#EXTINF:-1,AF: (Ghana) CNBC AFRICA
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146988
+#EXTINF:-1,AF: (Ghana) Joy News
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/69312
+#EXTINF:-1,AF: (Ghana) Resurrection TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/121754
+#EXTINF:-1,AF: (Guinea) Espace TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/46663
+#EXTINF:-1,AF: (Guinea) Kalac TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/147931
+#EXTINF:-1,AF: (Guinea) RTG
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11990
+#EXTINF:-1,AF: (Guinea) TVGE
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193792
+#EXTINF:-1,AF: (Ivory Coast) Divin Amour TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/145511
+#EXTINF:-1,AF: (Kenya) Citizen TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/23992
+#EXTINF:-1,AF: (Kenya) Inooro TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/61754
+#EXTINF:-1,AF: (Kenya) NTV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/74130
+#EXTINF:-1,AF: (Lesotho) TV Lesotho
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38528
+#EXTINF:-1,AF: (Mali) ORTM 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3677
+#EXTINF:-1,AF: (Mali) RTB
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281537
+#EXTINF:-1,AF: (Mozambique) TV Maná Moçambique
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166324
+#EXTINF:-1,AF: (Mozambique) TVM
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/24002
+#EXTINF:-1,AF: (Mozambique) TVM Internacional
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294550
+#EXTINF:-1,AF: (Nigeria) ACNN
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/280127
+#EXTINF:-1,AF: (Nigeria) Bride TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146117
+#EXTINF:-1,AF: (Nigeria) Channels TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/46616
+#EXTINF:-1,AF: (Nigeria) Dove TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146133
+#EXTINF:-1,AF: (Nigeria) Dunamis TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146138
+#EXTINF:-1,AF: (Nigeria) Emmanuel TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12353
+#EXTINF:-1,AF: (Nigeria) Lagos TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/24000
+#EXTINF:-1,AF: (Nigeria) Loveworld Plus
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281559
+#EXTINF:-1,AF: (Nigeria) LoveWorld Sat
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/46623
+#EXTINF:-1,AF: (Nigeria) Radio Tele Planet Compas
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281560
+#EXTINF:-1,AF: (Nigeria) Rave TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/79643
+#EXTINF:-1,AF: (Nigeria) Rok
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90210
+#EXTINF:-1,AF: (nigeria) Tele Sahel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294442
+#EXTINF:-1,AF: (Nigeria) TV Continental
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165443
+#EXTINF:-1,AF: (Nigeria) TVC News
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/4312
+#EXTINF:-1,AF: (Rwanda) KC2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/192668
+#EXTINF:-1,AF: (Rwanda) Rwanda TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/4295
+#EXTINF:-1,AF: (Senegal) 7 TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/46592
+#EXTINF:-1,AF: (Senegal) 2S TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1682
+#EXTINF:-1,AF: (Senegal) A2I
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/7539
+#EXTINF:-1,AF: (Senegal) A2I Naija
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284667
+#EXTINF:-1,AF: (Senegal) A2i Religion
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284668
+#EXTINF:-1,AF: (Senegal) Bichri TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11979
+#EXTINF:-1,AF: (Senegal) DBM TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165363
+#EXTINF:-1,AF: (Senegal) DTV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/79627
+#EXTINF:-1,AF: (Senegal) Label TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284669
+#EXTINF:-1,AF: (Senegal) Lamp Fall TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/260337
+#EXTINF:-1,AF: (Senegal) Louga TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165361
+#EXTINF:-1,AF: (Senegal) Mouride TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/4289
+#EXTINF:-1,AF: (Senegal) RDV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/74144
+#EXTINF:-1,AF: (Senegal) RTJ Music
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/121774
+#EXTINF:-1,AF: (Senegal) RTS 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1685
+#EXTINF:-1,AF: (Senegal) RTS 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1684
+#EXTINF:-1,AF: (Senegal) Sen TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1683
+#EXTINF:-1,AF: (Senegal) TFM
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1680
+#EXTINF:-1,AF: (Senegal) Touba TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/74143
+#EXTINF:-1,AF: (Senegal) Walf TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3666
+#EXTINF:-1,AF: (Sierra Leone) AYV TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166847
+#EXTINF:-1,AF: (Somalia) Cable
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/4292
+#EXTINF:-1,AF: (Somalia) Horn Cable TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/69326
+#EXTINF:-1,AF: (Somalia) Jubbaland TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294436
+#EXTINF:-1,AF: (Somalia) Kalsan TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/4287
+#EXTINF:-1,AF: (Somalia) Saab TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/121792
+#EXTINF:-1,AF: (Somalia) SBC TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284238
+#EXTINF:-1,AF: (Somalia) SNTV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294433
+#EXTINF:-1,AF: (Somalia) SNTV 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296376
+#EXTINF:-1,AF: (Somalia) Somali National TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/121821
+#EXTINF:-1,AF: (Sudan) Africa TV 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/3678
+#EXTINF:-1,AF: (Sudan) Africa TV 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193301
+#EXTINF:-1,AF: (Sudan) Africa TV 3
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193302
+#EXTINF:-1,AF: (Sudan) Sudan Music
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266519
+#EXTINF:-1,AF: (Tanzania) IBN TV Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/11981
+#EXTINF:-1,AF: (Togo) SOS Docteur TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/276027
+#EXTINF:-1,AF: (Tunisia) Watania 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/197276
+#EXTINF:-1,AF: A2I Music
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284221
+#EXTINF:-1,AF: Africa 24
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/280123
+#EXTINF:-1,AF: Africa Gospel TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296388
+#EXTINF:-1,AF: Africable
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/174482
+#EXTINF:-1,AF: AfricaNews English
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283863
+#EXTINF:-1,AF: AfricaNews Francais
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283864
+#EXTINF:-1,AF: Aljazeera Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193815
+#EXTINF:-1,AF: Aljazeera English
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/291214
+#EXTINF:-1,AF: AMC
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/279693
+#EXTINF:-1,AF: Arise News
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146108
+#EXTINF:-1,AF: Biafra TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198201
+#EXTINF:-1,AF: Bip TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281513
+#EXTINF:-1,AF: Catholic TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/291215
+#EXTINF:-1,AF: Channels 24
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157250
+#EXTINF:-1,AF: Cine Plusrica
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294435
+#EXTINF:-1,AF: Dacwa TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296377
+#EXTINF:-1,AF: Dare to Dream
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/267804
+#EXTINF:-1,AF: EMCI TV Afrique
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/68170
+#EXTINF:-1,AF: FashionTV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/147936
+#EXTINF:-1,AF: God TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157337
+#EXTINF:-1,AF: GOOBJOOG TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296375
+#EXTINF:-1,AF: Hope Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157237
+#EXTINF:-1,AF: Impact TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198567
+#EXTINF:-1,AF: Ivoire Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281569
+#EXTINF:-1,AF: Kass TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198572
+#EXTINF:-1,AF: La Nouvelle Chaine Ivorienne
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/145503
+#EXTINF:-1,AF: LCI
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281515
+#EXTINF:-1,AF: Mouv (FR)
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/197845
+#EXTINF:-1,AF: Music TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193584
+#EXTINF:-1,AF: Nollywood TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/63107
+#EXTINF:-1,AF: Ouest
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/291196
+#EXTINF:-1,AF: Peace TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294441
+#EXTINF:-1,AF: PLTV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193326
+#EXTINF:-1,AF: Puntland TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296370
+#EXTINF:-1,AF: RTG
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295427
+#EXTINF:-1,AF: RTS 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/280699
+#EXTINF:-1,AF: Sahel TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/146234
+#EXTINF:-1,AF: Savane TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/197854
+#EXTINF:-1,AF: SBC TV HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296369
+#EXTINF:-1,AF: SN+
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296378
+#EXTINF:-1,AF: Somaliland TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/294431
+#EXTINF:-1,AF: TBN Africa
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/38576
+#EXTINF:-1,AF: Telesud
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193593
+#EXTINF:-1,AF: TV Francophonie
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157240
+#EXTINF:-1,AF: UNIVERSEL SOMALI TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296368
+#EXTINF:-1,AF: Voxafrica News
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296379
